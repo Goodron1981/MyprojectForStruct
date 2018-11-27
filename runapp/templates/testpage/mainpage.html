@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mytestpage</title>
+  </head>
+  <body>
+    <form action="testpage/vote" method="post">
+      {% csrf_token %}
+    <input type="text" name="choice" id="choice" value="{{ inval }}"/>
+<input type="submit" value="Vote" >
+</form>
+<h4>{{ topper }}</h4>
+  </body>
+</html>
