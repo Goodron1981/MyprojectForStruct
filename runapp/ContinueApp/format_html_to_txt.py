@@ -4,15 +4,18 @@ from bs4 import BeautifulSoup
 from runapp.models import Excludespage
 
 
-def formahtm1totxt(content):
+def formathtmltotxt(content):
     trace = BeautifulSoup(content, "html5lib")
-    bots = trace.find_all('body')[0]
-    bebots = bots.get_text()
+    test = trace.find_all('body')
+    if len(test)>0:
+        bots = trace.find_all('body')[0]
+        bebots = bots.get_text()
+    else:
+        bebots = ""
     # trace = BeautifulSoup(page.data, "html5lib")
     # bots = trace.find_all('body')[0]
     # bebots = bots.get_text()
     bush = bebots.lower()
-    # todo сюда добавить проверку на исключающие страницу слова( те что указівают на явнонеуникальный или неподходящий текст)
     exwordlist = Excludespage.objects.all()
     for exword in exwordlist:
         serchword = '\\b' + exword.ex_page + '\\b'
@@ -28,9 +31,9 @@ def formahtm1totxt(content):
     bebots = bebots[:startserch]
 
     # удаляем названия с большой буквы на кирилице в фигурных кавычках
-    bebots = re.sub("\s*«[А-ЯЁ].*»\s*", "НАЗВАНИЕ КОМПАНИИ", bebots)
+    bebots = re.sub("\s*«[А-ЯЁ].*»\s*", " НАЗВАНИЕ КОМПАНИИ ", bebots)
     # удаляем названия с большой буквы на кирилице в обычных кавычках
-    bebots = re.sub('\s*"[А-ЯЁ].*"\s*', 'НАЗВАНИЕ КОМПАНИИ', bebots)
+    bebots = re.sub('\s*"[А-ЯЁ].*"\s*', ' НАЗВАНИЕ КОМПАНИИ ', bebots)
 
     pattern = re.compile(r'[А-Я].+[!.?]')
     pattern2 = re.compile(r'\s{2}')

@@ -1,0 +1,5 @@
+var JText = [];
+JText['COM_FOXCONTACT_BROWSE_FILES'] = 'Обзор файлов';
+JText['JCANCEL'] = 'Отменить';
+JText['COM_FOXCONTACT_FAILED'] = 'Ошибка';
+JText['COM_FOXCONTACT_SUCCESS'] = 'Успешно';

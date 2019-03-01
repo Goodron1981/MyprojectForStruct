@@ -12,8 +12,4 @@ def loaddata(filename):
     print("Список из: ", filename, " - ", my_list)
     return my_list
 
-    '''
-1 in my_list
 
-True    
-    '''

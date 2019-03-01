@@ -1,14 +1,16 @@
 import os
 
 from runapp.ContinueApp.validAnyPeriod import isunikalPeriod
+from runapp.Finapp.loadAllPagePeriod import loadAll
+from runapp.Finapp.forsaveseconds import saveseconds
 
 
 def get_valid_list(list_periods, name_domain):
-    validated_list = []
+    # validated_list = []
     countlist = len(list_periods) / 2
     c = 0
     while c < countlist:
-        domain_dir = name_domain.replace("http://", "/home/max/websites/Processing_Domain/") + "/Period" + str(c+1)
+        domain_dir = "/home/max/websites/processing_domain/" + name_domain + "/period" + str(c+1)
         if not os.path.exists(domain_dir):
             os.makedirs(domain_dir)
         fromyear = list_periods[2 * c]
@@ -18,13 +20,12 @@ def get_valid_list(list_periods, name_domain):
         # если в периоде 3 уникальных точки - качаем все
         if boleanValid == 3:
             print("Уникальный период :", domain_dir)
-            # todo loadAll()
-        elif boleanValid > 1:
-        # todo savetothirth()
-            print("2-сорт :", domain_dir)
+            loadAll(fromyear, toyear, name_domain, domain_dir)
+        elif boleanValid > 0:
+            saveseconds(fromyear, toyear, name_domain, boleanValid)
         else:
             print("Неуникальный период :", domain_dir)
-            # test = [fromyear, toyear]
-            # validated_list.append(test)
         c = c + 1
-    return validated_list
+    else:
+        print("Неуникальный домен :", name_domain)
+    print("Процесс get_valid_list по ", name_domain, " завершен")

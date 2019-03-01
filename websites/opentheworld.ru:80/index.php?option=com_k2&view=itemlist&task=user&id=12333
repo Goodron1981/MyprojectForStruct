@@ -1,0 +1,750 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru">
+
+<head>
+ 
+	<script type="text/javascript">
+var siteurl='/';
+var tmplurl='/templates/leo_travel/';
+var isRTL = false;
+</script>
+
+  <base href="http://opentheworld.ru/index.php" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>ООО &quot;Туристическая компания &quot;Открытый Мир&quot; - DarlenebvQLQ</title>
+  <link href="/index.php/component/k2/itemlist/user/12333?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php/component/k2/itemlist/user/12333?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link rel="stylesheet" href="/index.php?jat3action=gzip&amp;jat3type=css&amp;jat3file=t3-assets%2Fcss_c5c86.css" type="text/css" />
+  <link rel="stylesheet" href="/index.php?jat3action=gzip&amp;jat3type=css&amp;jat3file=t3-assets%2Fcss_ee56a.css" type="text/css" />
+  <link rel="stylesheet" href="/index.php?jat3action=gzip&amp;jat3type=css&amp;jat3file=t3-assets%2Fcss_a4701.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="http://opentheworld.ru//plugins/system/jatypo/jatypo/assets/script.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js" type="text/javascript"></script>
+  <script src="/plugins/system/jat3/jat3/base-themes/default/js/core.js" type="text/javascript"></script>
+  <script src="/plugins/system/jat3/jat3/base-themes/default/js/menu/mega.js" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+  <script src="/plugins/content/jw_sig/jw_sig/includes/js/jquery_fancybox/fancybox/lib/jquery.mousewheel-3.0.6.pack.js" type="text/javascript"></script>
+  <script src="/plugins/content/jw_sig/jw_sig/includes/js/jquery_fancybox/fancybox/jquery.fancybox.pack.js?v=2.1.4" type="text/javascript"></script>
+  <script src="/plugins/content/jw_sig/jw_sig/includes/js/jquery_fancybox/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4" type="text/javascript"></script>
+  <script src="/plugins/content/jw_sig/jw_sig/includes/js/jquery_fancybox/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4" type="text/javascript"></script>
+  <script src="/plugins/content/jw_sig/jw_sig/includes/js/behaviour.js" type="text/javascript"></script>
+  <script src="/modules/mod_lofk2scroller/assets/script_12.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});var K2SitePath = '/';
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({ handler: 'ajax'});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});
+		jQuery.noConflict();
+		jQuery(function($) {
+			$("a.fancybox-button").fancybox({
+				//padding: 0,
+				//fitToView	: false,
+				helpers		: {
+					title	: { type : 'inside' }, // options: over, inside, outside, float
+					buttons	: {}
+				},
+				afterLoad : function() {
+					this.title = '<b class="fancyboxCounter">Изображение ' + (this.index + 1) + ' из ' + this.group.length + '</b>' + (this.title ? ' | ' + this.title : '');
+				}
+			});
+		});
+	
+  </script>
+
+<!--[if ie]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/templates/leo_travel/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+
+
+
+
+<link href="/plugins/system/jat3/jat3/base-themes/default/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+<script type="text/javascript" src="/templates/leo_travel/js/cufon-yui.js"></script>
+<script type="text/javascript" src="/templates/leo_travel/js/UVN_But_Long_2_400.font.js"></script>
+<script type="text/javascript">
+ Cufon.replace( '#ja-botsl1 div.ja-moduletable h3', { fontFamily: 'UVN But Long 2' } ); 
+				
+</script>
+		
+	<style type="text/css">
+/*dynamic css*/
+
+    body.bd .main {width: 960px;}
+    body.bd #ja-wrapper {min-width: 960px;}
+</style> 
+
+</head>
+
+<body id="bd" class="bd fs3 com_k2">
+<div id="ja-wrapper">
+<div id="ja-wrapper-inner">
+	<a name="Top" id="Top"></a>
+	
+	            <div id="ja-header"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <h1 class="logo">
+    <a href="/" title="ООО "Туристическая компания "Открытый Мир""><span>ООО "Туристическая компания "Открытый Мир"</span></a>
+</h1>
+
+<div id="ja-search">
+    
+
+<div class="custom"  >
+	<p style="text-align: right;">
+	<span style="font-size:13px;"><strong><span style="color: rgb(58, 69, 139);"><em>г. Орел, ул. М. Горького, д. 82</em></span></strong></span></p>
+<p style="text-align: right;">
+	<span style="font-size:14px;"><span style="color: rgb(58, 69, 139);">8 (4862) 42-01-01<br />
+	8 (4862) 42-01-10</span><br />
+	<span style="color: rgb(58, 69, 139);">8 (4862) 48-75-15</span></span></p>
+<table align="right" height="6" width="131">
+	<tbody>
+		<tr>
+			<td style="width: 215px; text-align: right;">
+				<span style="color:#000080;"><em><strong><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: 14px;">openwor</span></span></strong></em></span></td>
+			<td style="width: 0px;">
+				<img alt="" height="17" src="http://opentheworld.ru/images/skype.png" width="17" /></td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: right;">
+	<br />
+	<span style="color:#3a458b;"><span style="font-size: 16px;">&nbsp;</span></span><br />
+	<br />
+	&nbsp;</p>
+</div>
+
+</div>                </div>
+                            </div>
+                        </div>
+                        <div id="ja-mainnav"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <div class="ja-megamenu clearfix" id="ja-megamenu">
+<ul class="megamenu level0"><li  class="mega first active"></li><li  class="mega"><a href="/index.php/poisk-tura"  class="mega" id="menu569" title="Поиск тура"><span class="menu-title">Поиск тура</span></a></li><li  class="mega"><a href="http://sletat.ru/" target="_blank"  class="mega" id="menu568" title="Цены"><span class="menu-title">Цены</span></a></li><li  class="mega"><a href="http://www.ostrovok.ru/" target="_blank"  class="mega" id="menu602" title="Каталог отелей"><span class="menu-title">Каталог отелей</span></a></li><li  class="mega"><a href="http://tonkosti.ru" target="_blank"  class="mega" id="menu550" title="Информация о странах"><span class="menu-title">Информация о странах</span></a></li><li  class="mega"><a href="http://www.ntk-intourist.ru" target="_blank"  class="mega" id="menu635" title="Туры"><span class="menu-title">Туры</span></a></li><li  class="mega last"><a href="/index.php/avtobusom-k-moryu"  class="mega last" id="menu636" title="Автобусом к морю"><span class="menu-title">Автобусом к морю</span></a></li></ul>
+</div>            <script type="text/javascript">
+                var megamenu = new jaMegaMenuMoo ('ja-megamenu', {
+                    'bgopacity': 0,
+                    'delayHide': 300,
+                    'slide'    : 1,
+                    'fading'   : 1,
+                    'direction': 'down',
+                    'action'   : 'mouseover',
+                    'tips'     : false,
+                    'duration' : 300,
+                    'hidestyle': 'fastwhenshow'
+                });
+            </script>
+            <!-- jdoc:include type="menu" level="0" / -->
+
+
+<ul class="no-display">
+    <li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>                </div>
+                            </div>
+                        </div>
+            <div id="ja-cpanel-wrapper">
+<div id="ja-cpanel">
+    <div id="ja-cpanel-main">
+        <div class="ja-cpanel-head clearfix">
+            <a href="http://wiki.joomlart.com/wiki/JA_T3_Framework_2/Overview" class="first" title="About T3"><span>About</span></a>
+            <a href="http://wiki.joomlart.com/wiki/JA_T3_Framework_2/Guides" title="Guides"><span>Guides</span></a>
+            <a href="http://wiki.joomlart.com/wiki/JA_T3_Framework_2/FAQs" title="FAQs"><span>FAQs</span></a>
+        </div>
+        <div class="ja-cpanel-tools clearfix">
+                    <h3>Font Size</h3>
+
+<div class="ja-box-usertools">
+  <ul class="ja-usertools-font clearfix">
+      <li class="font-inc">
+      <a title="Increase font size" onclick="switchFontSize('leo_travel_font', 'inc');return false;">
+        <span>Increase font size</span>
+      </a>
+    </li>
+      <li class="font-dec">
+      <a title="Decrease font size" onclick="switchFontSize('leo_travel_font', 'dec');return false;">
+        <span>Decrease font size</span>
+      </a>
+    </li>
+      <li class="font-reset">
+      <a title="Default font size" onclick="switchFontSize('leo_travel_font', 'reset');return false;">
+        <span>Default font size</span>
+      </a>
+    </li>
+    </ul>
+</div>
+<script type="text/javascript">
+  var DefaultFontSize=parseInt('3');
+  var CurrentFontSize=parseInt('3');
+</script>                            <h3>SCREEN</h3>
+
+<div class="ja-box-usertools">
+  <ul class="ja-usertools-screen clearfix">
+  
+    <li class="screen-wide">
+      <input type="radio" id="user_screen_wide" name="user_screen" value="wide"  />
+      <label for="user_screen_wide" title="Wide (default)">
+        <span>Wide (default)</span>
+      </label>
+    </li>
+  
+    <li class="screen-auto">
+      <input type="radio" id="user_screen_auto" name="user_screen" value="auto"  />
+      <label for="user_screen_auto" title="Fluid">
+        <span>Fluid</span>
+      </label>
+    </li>
+  
+    <li class="screen-narrow">
+      <input type="radio" id="user_screen_narrow" name="user_screen" value="narrow"  />
+      <label for="user_screen_narrow" title="Narrow">
+        <span>Narrow</span>
+      </label>
+    </li>
+    </ul>
+</div>                            <h3>Profile</h3>
+
+<div class="ja-box-usertools">
+  <ul class="ja-usertools-profile clearfix">
+      <li class="profile ">
+      <input type="radio" id="user_profile_darkblue" name="user_profile" value="darkblue"  />
+      <label for="user_profile_darkblue" title="darkblue">
+        <span>darkblue</span>
+      </label>
+    </li>
+      <li class="profile ">
+      <input type="radio" id="user_profile_darkred" name="user_profile" value="darkred"  />
+      <label for="user_profile_darkred" title="darkred">
+        <span>darkred</span>
+      </label>
+    </li>
+      <li class="profile profile-active">
+      <input type="radio" id="user_profile_default" name="user_profile" value="default" checked="checked" />
+      <label for="user_profile_default" title="default">
+        <span>default</span>
+      </label>
+    </li>
+      <li class="profile ">
+      <input type="radio" id="user_profile_slategray" name="user_profile" value="slategray"  />
+      <label for="user_profile_slategray" title="slategray">
+        <span>slategray</span>
+      </label>
+    </li>
+    </ul>
+</div>                            <h3>Layout</h3>
+
+<div class="ja-box-usertools">
+  <ul class="ja-usertools-layout clearfix">
+      <li class="layout layout-default">
+      <input type="radio" id="user_layouts_default" name="user_layouts" value="default"  />
+      <label for="user_layouts_default" title="default">
+        <span>default</span>
+      </label>
+    </li>
+      <li class="layout layout-iphone">
+      <input type="radio" id="user_layouts_iphone" name="user_layouts" value="iphone"  />
+      <label for="user_layouts_iphone" title="iphone">
+        <span>iphone</span>
+      </label>
+    </li>
+      <li class="layout layout-left-main">
+      <input type="radio" id="user_layouts_left-main" name="user_layouts" value="left-main"  />
+      <label for="user_layouts_left-main" title="left-main">
+        <span>left-main</span>
+      </label>
+    </li>
+      <li class="layout layout-main-left">
+      <input type="radio" id="user_layouts_main-left" name="user_layouts" value="main-left"  />
+      <label for="user_layouts_main-left" title="main-left">
+        <span>main-left</span>
+      </label>
+    </li>
+      <li class="layout layout-right-main">
+      <input type="radio" id="user_layouts_right-main" name="user_layouts" value="right-main"  />
+      <label for="user_layouts_right-main" title="right-main">
+        <span>right-main</span>
+      </label>
+    </li>
+    </ul>
+</div>                            <h3>Menu Style</h3>
+
+<div class="ja-box-usertools">
+  <ul class="ja-usertools-menu clearfix">
+  
+    <li class="menu-mega-active">
+      <input type="radio" id="user_menu_mega" name="user_menu" value="mega" checked="checked" />
+      <label for="user_menu_mega" title="Mega">
+        <span>Mega</span>
+      </label>
+    </li>
+  
+    <li class="menu-css">
+      <input type="radio" id="user_menu_css" name="user_menu" value="css"  />
+      <label for="user_menu_css" title="Css">
+        <span>Css</span>
+      </label>
+    </li>
+  
+    <li class="menu-dropline">
+      <input type="radio" id="user_menu_dropline" name="user_menu" value="dropline"  />
+      <label for="user_menu_dropline" title="Dropline">
+        <span>Dropline</span>
+      </label>
+    </li>
+  
+    <li class="menu-split">
+      <input type="radio" id="user_menu_split" name="user_menu" value="split"  />
+      <label for="user_menu_split" title="Split">
+        <span>Split</span>
+      </label>
+    </li>
+    </ul>
+</div>                </div>
+        <div class="ja-cpanel-action clearfix">
+            <a href="#" onclick="cpanel_apply();return false;" class="button" title="Apply setting"><span>Apply</span></a>
+            <a href="#" onclick="cpanel_reset();return false;" title="Reset to default setting"><span>Reset</span></a>
+            <a target="_blank" href="http://www.joomlart.com/joomla/jat3-framework/" class="ja-cpanel-video"><span>&nbsp;</span></a>
+        </div>
+    </div>
+    <a href="#" id="ja-cpanel-toggle"><span>Cpanel</span></a>
+</div>
+</div>
+
+<script type="text/javascript">
+    var tmpl_name = 'leo_travel';
+    window.addEvent('load', function () {
+        $('ja-cpanel-toggle').status == 'close';
+        $('ja-cpanel-toggle').slider = new Fx.Slide('ja-cpanel-main', {duration: 400});
+        $('ja-cpanel-toggle').slider.hide();
+        $('ja-cpanel').setStyle ('top', 0);
+        $('ja-cpanel-toggle').addEvent ('click', function (e) {
+            this.slider.toggle();
+            if (this.hasClass ('open')) {
+                this.removeClass ('open').addClass ('close');
+            } else {
+                this.removeClass ('close').addClass ('open');
+            }
+
+            if(e){
+                e.stop();
+            }
+        });
+    });
+</script>            <div id="ja-slideshow"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                	<div class="ja-moduletable moduletable  clearfix" id="Mod191">
+						<div class="ja-box-ct clearfix">
+		<div id="lofk2scroller191" class="lof-sliding" style="height:120px; width:960px">
+<div class=" lof-horizontal lof-container ">
+
+
+ <!-- MAIN CONTENT of ARTICLESCROLLER MODULE --> 
+  <div class="lof-main-wapper" style="height:120px;width:960px">
+ 		  		<div class="lof-main-item page-1">
+        		        		 <div class="lof-row" style="width:9.9%">
+                   <div class="lof-inner" style="height:auto">
+	  		
+        <div class="lof-image"  style="height:50px; width:50px">
+        					<a href="/index.php/vizy" title="Визы">
+					<img  src="http://opentheworld.ru/cache/lofthumbs/50x50-pic7.png" title="Визы"/>
+                </a>
+            			                                
+        </div>
+				              <a class="lof-title" target="_blank" title="Визы" href="/index.php/vizy">
+               Визы             </a>
+                            <div class="lof-extrainfo"> 
+                            </div>    
+                          
+</div>				</div>      
+                       
+                        		 <div class="lof-row" style="width:9.9%">
+                   <div class="lof-inner" style="height:auto">
+	  		
+        <div class="lof-image"  style="height:50px; width:50px">
+        					<a href="/index.php/transfer-arenda-avto" title="Трансфер, аренда авто">
+					<img  src="http://opentheworld.ru/cache/lofthumbs/50x50-pic8.png" title="Трансфер, аренда авто"/>
+                </a>
+            			                                
+        </div>
+				              <a class="lof-title" target="_blank" title="Трансфер, аренда авто" href="/index.php/transfer-arenda-avto">
+               Трансфер, аренда авто             </a>
+                            <div class="lof-extrainfo"> 
+                            </div>    
+                          
+</div>				</div>      
+                       
+                        		 <div class="lof-row" style="width:9.9%">
+                   <div class="lof-inner" style="height:auto">
+	  		
+        <div class="lof-image"  style="height:50px; width:50px">
+        					<a href="/index.php/aviabilety1" title="Авиабилеты">
+					<img  src="http://opentheworld.ru/cache/lofthumbs/50x50-pic3.png" title="Авиабилеты"/>
+                </a>
+            			                                
+        </div>
+				              <a class="lof-title" target="_blank" title="Авиабилеты" href="/index.php/aviabilety1">
+               Авиабилеты             </a>
+                            <div class="lof-extrainfo"> 
+                            </div>    
+                          
+</div>				</div>      
+                       
+                        		 <div class="lof-row" style="width:9.9%">
+                   <div class="lof-inner" style="height:auto">
+	  		
+        <div class="lof-image"  style="height:50px; width:50px">
+        					<a href="/index.php/zh-d-bilety" title="Ж/Д билеты">
+					<img  src="http://opentheworld.ru/cache/lofthumbs/50x50-pic4.png" title="Ж/Д билеты"/>
+                </a>
+            			                                
+        </div>
+				              <a class="lof-title" target="_blank" title="Ж/Д билеты" href="/index.php/zh-d-bilety">
+               Ж/Д билеты             </a>
+                            <div class="lof-extrainfo"> 
+                            </div>    
+                          
+</div>				</div>      
+                       
+                        		 <div class="lof-row" style="width:9.9%">
+                   <div class="lof-inner" style="height:auto">
+	  		
+        <div class="lof-image"  style="height:50px; width:50px">
+        					<a href="/index.php/bilety-ekolajns" title="Эколайнс">
+					<img  src="http://opentheworld.ru/cache/lofthumbs/50x50-pic2.png" title="Эколайнс"/>
+                </a>
+            			                                
+        </div>
+				              <a class="lof-title" target="_blank" title="Эколайнс" href="/index.php/bilety-ekolajns">
+               Эколайнс             </a>
+                            <div class="lof-extrainfo"> 
+                            </div>    
+                          
+</div>				</div>      
+                       
+                        		 <div class="lof-row" style="width:9.9%">
+                   <div class="lof-inner" style="height:auto">
+	  		
+        <div class="lof-image"  style="height:50px; width:50px">
+        					<a href="/index.php/isic-itic" title="ISIC, ITIC">
+					<img  src="http://opentheworld.ru/cache/lofthumbs/50x50-pic6.png" title="ISIC, ITIC"/>
+                </a>
+            			                                
+        </div>
+				              <a class="lof-title" target="_blank" title="ISIC, ITIC" href="/index.php/isic-itic">
+               ISIC, ITIC             </a>
+                            <div class="lof-extrainfo"> 
+                            </div>    
+                          
+</div>				</div>      
+                       
+                        		 <div class="lof-row" style="width:9.9%">
+                   <div class="lof-inner" style="height:auto">
+	  		
+        <div class="lof-image"  style="height:50px; width:50px">
+        					<a href="/index.php/strakhovanie" title="Страхование">
+					<img  src="http://opentheworld.ru/cache/lofthumbs/50x50-pic1.png" title="Страхование"/>
+                </a>
+            			                                
+        </div>
+				              <a class="lof-title" target="_blank" title="Страхование" href="/index.php/strakhovanie">
+               Страхование             </a>
+                            <div class="lof-extrainfo"> 
+                            </div>    
+                          
+</div>				</div>      
+                       
+                        		 <div class="lof-row" style="width:9.9%">
+                   <div class="lof-inner" style="height:auto">
+	  		
+        <div class="lof-image"  style="height:50px; width:50px">
+        					<a href="/index.php/kontserty-bilety-v-teatr" title="Концерты, билеты в театр">
+					<img  src="http://opentheworld.ru/cache/lofthumbs/50x50-pic5.png" title="Концерты, билеты в театр"/>
+                </a>
+            			                                
+        </div>
+				              <a class="lof-title" target="_blank" title="Концерты, билеты в театр" href="/index.php/kontserty-bilety-v-teatr">
+               Концерты, билеты в театр             </a>
+                            <div class="lof-extrainfo"> 
+                            </div>    
+                          
+</div>				</div>      
+                       
+                        		 <div class="lof-row" style="width:9.9%">
+                   <div class="lof-inner" style="height:auto">
+	  		
+        <div class="lof-image"  style="height:50px; width:50px">
+        					<a href="/index.php/component/content/article/93-menyu-2/178-oteli" title="Отели">
+					<img  src="http://opentheworld.ru/cache/lofthumbs/50x50-pic9.png" title="Отели"/>
+                </a>
+            			                                
+        </div>
+				              <a class="lof-title" target="_blank" title="Отели" href="/index.php/component/content/article/93-menyu-2/178-oteli">
+               Отели             </a>
+                            <div class="lof-extrainfo"> 
+                            </div>    
+                          
+</div>				</div>      
+                       
+                        		 <div class="lof-row" style="width:9.9%">
+                   <div class="lof-inner" style="height:auto">
+	  		
+        <div class="lof-image"  style="height:50px; width:50px">
+        					<a href="/index.php/component/content/article/93-menyu-2/179-suveniry" title="Сувениры">
+					<img  src="http://opentheworld.ru/cache/lofthumbs/50x50-pic10.png" title="Сувениры"/>
+                </a>
+            			                                
+        </div>
+				              <a class="lof-title" target="_blank" title="Сувениры" href="/index.php/component/content/article/93-menyu-2/179-suveniry">
+               Сувениры             </a>
+                            <div class="lof-extrainfo"> 
+                            </div>    
+                          
+</div>				</div>      
+                       
+                        </div> 
+   		  </div>
+ </div> 
+  <!-- END MAIN CONTENT of ARTICLESCROLLER MODULE --> 
+ </div> 
+	
+	<script type="text/javascript">
+	 var _lofmain =  $('lofk2scroller191'); 
+		
+	new LofTools( _lofmain,{
+	  ishover:'0',
+	  ispreload:0,
+	  hoverbg:['#3541E8','#F02C0E']
+	} );
+	</script>
+
+		</div>
+    </div>
+	                </div>
+                            </div>
+                        </div>
+            
+	<!-- MAIN CONTAINER -->
+	<div id="ja-container" class="wrap ja-mf">
+	           <div class="main">
+                           <div class="main-inner1 clearfix">
+                 
+		<div id="ja-mainbody" style="width:100%">
+			<!-- CONTENT -->
+			<div id="ja-main" style="width:100%">
+			<div class="inner clearfix">
+				
+				
+<div id="system-message-container">
+</div>
+				
+				<div id="ja-contentwrap" class="clearfix ">
+					<div id="ja-content" class="column" style="width:100%">
+						<div id="ja-current-content" class="column" style="width:100%">
+														
+														<div id="ja-content-main" class="ja-content-main clearfix">
+								
+<!-- Start K2 User Layout -->
+<div id="k2Container" class="userView">
+        <div class="itemAuthorBlock">
+    <div>
+                  <div class="itemAuthorAvatar"><img src="/components/com_k2/images/placeholder/user.png" alt="DarlenebvQLQ" style="width:160px; height:auto;" /></div>
+            
+      <div class="itemAuthorDetails">
+	      	      <h3 class="itemAuthorName">DarlenebvQLQ</h3>
+	      	      	      <span class="itemAuthorURL"> Website URL: <a href="http://xloansonline.com" target="_blank" rel="me">http://xloansonline.com</a> </span>
+	      	      	      	      <p>This career path is pretty <a href="http://fsd24ffsf.co.pl/hrxIm1p">http://fsd24ffsf.co.pl/hrxIm1p</a> difficult and these days competition in the employment market is challenging. Read on for <a href="http://sunnyydayy.com/ydxQq7uIK">http://sunnyydayy.com/ydxQq7uIK</a> my exclusive review.Is usually Brain Bullet Safe To Download And Use?All of us? This canine continues to be fairly rare in the united states, the Spinone Italiano in its native country of Italy is known as the all-purpose hunting <a href="http://sdf34fsdt3.co.pl/XSZ8GZGMi">http://sdf34fsdt3.co.pl/XSZ8GZGMi</a> dog. In reality it doesn’t dry <a href="http://zimalato365.pl/wNTQBil">http://zimalato365.pl/wNTQBil</a> up your lip area, however it may likely accentuate any dried out patches already on the lips, so it necessary to exfoliate and hydrate your lips prior to application for a smooth finish.Nevertheless in order to wear any of the shade but do not need it to become matte, a little gloss outrageous is going to be better. The <a href="http://fyrlvldkrefer.co.pl/457IBqK5">http://fyrlvldkrefer.co.pl/457IBqK5</a> product is made from Coffeeberry together with other fruit and veggie extracts. Based on the <a href="http://green345.net/RysfmfNjO">http://green345.net/RysfmfNjO</a> Chinese University of Hong Kong Test Data display that will Li Ning's professional products in the key indicators are already comparable with worldwide brands popular design has become a lot more. Nevertheless <a href="http://lanplus.de/wsFcGaco">http://lanplus.de/wsFcGaco</a> , it illustrates the important need to keep the thoughts positive and exactly how, scientifically, we can now understand why.This? Then you aren't alone, many people have this same problem which is why you ought to know what is needed to easily make your own business began.Listed here are the essential stuff that everyone needs in case you actually want to get a business started in your own home and build this so it is effective.1 . Website or weblog - You need an internet site or blog where one <a href="http://34rfwef2sdf.co.pl/WEljOopnG">http://34rfwef2sdf.co.pl/WEljOopnG</a> can send individuals. The health care reform in <a href="http://gwiazdynaniebie24.pl/I0Q4MhA">http://gwiazdynaniebie24.pl/I0Q4MhA</a> the United States in the recent times paving method for huge income opportunity for software service agency. If you still discover that you are unsure, sit <a href="http://khlfglrdppesv.co.pl/gTzitZ6A">http://khlfglrdppesv.co.pl/gTzitZ6A</a> down and create what that you are unsure about. you can find already established <a href="http://fedoskinomasters.com/jG612mR">http://fedoskinomasters.com/jG612mR</a> guidelines and techniques you are able to follow in order to succeed. This means that times are kids will respect all of us but might not like <a href="http://sunnyydayy.com/QFoWU8S">http://sunnyydayy.com/QFoWU8S</a> what we should do. There are also modern grandfather clocks that use a mix of materials <a href="http://34rfwef2sdf.co.pl/yGk6qFgU1">http://34rfwef2sdf.co.pl/yGk6qFgU1</a> for example stone, glass, metal and many more.Producers for example Madison Oakwood, Wesley Oakwood, and Franklin Cherrywood are usually among the contemporary. The very <a href="http://dldltspvpps4.co.pl/hJFmTivf">http://dldltspvpps4.co.pl/hJFmTivf</a> first thing Nanak said on his return was "There is not any Hindu, simply no Muslim. By <a href="http://fiesosdreamradio.de/sYesKzk66">http://fiesosdreamradio.de/sYesKzk66</a> providing your visitors martini eyeglasses, you are which makes them feel sophisticated like James Bond. While the witness might be slumped back <a href="http://sdfsdr34fdsf2.co.pl/TKKgeWL">http://sdfsdr34fdsf2.co.pl/TKKgeWL</a> in her seat, taking a look at the floor, the lawyer might be hovering or position rigidly and looking intensely at the witness? The exact delivery could be a couple weeks before <a href="http://sunnyydayy.com/WGZTtgHxt">http://sunnyydayy.com/WGZTtgHxt</a> or following the due date. Nice from the free online games has hit a new high, <a href="http://gropenfuhrer.com/vI9vZMOu">http://gropenfuhrer.com/vI9vZMOu</a> because of growth from the internet. People didn? <a href="http://green345.net/ZB2uh6A">http://green345.net/ZB2uh6A</a> Become strong, or else <a href="http://sdfsdr34fdsf2.co.pl/vWWcWAAC">http://sdfsdr34fdsf2.co.pl/vWWcWAAC</a> you? I'd be <a href="http://sdfsdr34fdsf2.co.pl/voZf6yf">http://sdfsdr34fdsf2.co.pl/voZf6yf</a> worried basically were you.. This will only <a href="http://milega.eu/b7yzI5Z2">http://milega.eu/b7yzI5Z2</a> upset her the confuse the girl. This particular gave an index of the very crucial elements that are essential for creating articles <a href="http://yyelloww.net/LH43qxozE">http://yyelloww.net/LH43qxozE</a> on the online world. It only normally requires 2 or 3 years for style <a href="http://sunnyydayy.com/XQqqVsSl">http://sunnyydayy.com/XQqqVsSl</a> revolutions to carry area, therefore it is advisable to focus mostly on elaborate proceeding to generally be happening in the very near to long run. m not really <a href="http://sfdff3fsdf.co.pl/w0EpiKS">http://sfdff3fsdf.co.pl/w0EpiKS</a> a excellent housekeeper. a furrier knows the proper procedure to wash your hair. <a href="http://34rfwef2sdf.co.pl/v8XJfYsI">http://34rfwef2sdf.co.pl/v8XJfYsI</a> Stopping anyone, let <a href="http://dfsf34czxc.co.pl/KU8Lc0KS">http://dfsf34czxc.co.pl/KU8Lc0KS</a> alone a small child, through scratching is very difficult. Fakers plus legitimate ones grumble and groan and even clutch and scream, however the missing link <a href="http://yyelloww.net/U2dQrxzhn">http://yyelloww.net/U2dQrxzhn</a> between phony and genuine climax are the heart thumping and the breathing. they could include the profiles associated with events, companies, even <a href="http://fyrlvldkrefer.co.pl/ypSeFv5N">http://fyrlvldkrefer.co.pl/ypSeFv5N</a> politics parties. You can use it in cooking however in much smaller <a href="http://gropenfuhrer.com/TjvcDbj">http://gropenfuhrer.com/TjvcDbj</a> proportions. particularly E <a href="http://fedoskinomasters.com/cvwOZXd">http://fedoskinomasters.com/cvwOZXd</a> vitamin. While the products are genuinely <a href="http://gropenfuhrer.com/54stvKR9">http://gropenfuhrer.com/54stvKR9</a> great, they won't just sell by themselves. The advantageous compensation system utilized by several programs nowadays makes its easy for the enrollee to earn and get the <a href="http://gwiazdynaniebie24.pl/GTYzBi6">http://gwiazdynaniebie24.pl/GTYzBi6</a> money he previously gained. As the saying goes, maintaining <a href="http://dldltspvpps4.co.pl/LkfDNhI5f">http://dldltspvpps4.co.pl/LkfDNhI5f</a> the garden or perhaps a farm is a labor of love. Then when I did, the particular court ordered me personally to turn over my <a href="http://sdf34fsdt3.co.pl/NkZnggZ8Q">http://sdf34fsdt3.co.pl/NkZnggZ8Q</a> records. mail <a href="http://sdfsd2dsa.co.pl/p0YgH181P">http://sdfsd2dsa.co.pl/p0YgH181P</a> in? There are several ways to perform Gassho in Buddhist practice. <a href="http://sdf34fsdt3.co.pl/lodRuGic5">http://sdf34fsdt3.co.pl/lodRuGic5</a> it decreases melanin develop thereby diminishing liver spots with out any adverse side effect.It is <a href="http://fiesosdreamradio.de/vbKhBSBRs">http://fiesosdreamradio.de/vbKhBSBRs</a> important to remember that the best age spot treatment does not only remove existing age spots effectively with no harmful side-effect; " Their eternal destiny are at risk.Jesus said, "Where your own treasure is usually, there your own heart <a href="http://fsdf34fsdfsd.co.pl/dwgnjAU">http://fsdf34fsdfsd.co.pl/dwgnjAU</a> will be also. Dating is growing rapidly referred for searching relationship for really like and romance with last for <a href="http://bkfud634.co.pl/7smdV3sD">http://bkfud634.co.pl/7smdV3sD</a> marriage. 03-28-1988Show 62 <a href="http://sunnyydayy.com/uc92dJG">http://sunnyydayy.com/uc92dJG</a> (Rock the particular Cradle) Air Time: The transmitting parts <a href="http://zimalato365.pl/RbQoddn">http://zimalato365.pl/RbQoddn</a> give much better set you back the motorbike. Here it really <a href="http://fsd24ffsf.co.pl/jTg9dOu">http://fsd24ffsf.co.pl/jTg9dOu</a> is again, -light. plus 10 % said coaching got <a href="http://dldltspvpps4.co.pl/isYOEesS">http://dldltspvpps4.co.pl/isYOEesS</a> made them less satisfied with their work. It is necessary that there is nothing moved or transformed <a href="http://34rfwef2sdf.co.pl/sivSab8">http://34rfwef2sdf.co.pl/sivSab8</a> in your own home aid continuity. I still consider myself a newcomer even though I have already been learning web and affiliate marketing online for more <a href="http://milega.eu/I9AEJ4c">http://milega.eu/I9AEJ4c</a> than seven or eight years right now. Simply by surrounding yourself with things and individuals you truly enjoy and following some simple tenets, you are able to create stability, harmony and relaxation, which will carry you with the holidays and in <a href="http://fedoskinomasters.com/nPHVaye">http://fedoskinomasters.com/nPHVaye</a> to the new 12 months.?`Linda Binns demonstrates how to become more successful in most parts of your life by dealing with your environment. <br/><br/> big t for everybody. <a href="http://dlranchproperties.com/m53IP3opf">http://dlranchproperties.com/m53IP3opf</a> From each one of these kid merits a good surrounds that will excites the imagination and <a href="http://youandme247.org/1FToI0Y">http://youandme247.org/1FToI0Y</a> allows for terrific memories for weeks to include up childrens sheepskin blankets children beach towels plus children? Naturally , some will would rather trust their own instincts about selecting a mattress but I, for just one, think allowing a machine analyze your <a href="http://dldltspvpps4.co.pl/TuwviGP">http://dldltspvpps4.co.pl/TuwviGP</a> sleep needs is really a advance; Considering that this weight of the liquids inside your waste is frequently a lot more than the <a href="http://sfdff3fsdf.co.pl/hGfPhPMQt">http://sfdff3fsdf.co.pl/hGfPhPMQt</a> weight from the solid material you can observe why water decrease would be beneficial. If this takes longer than <a href="http://dlranchproperties.com/XUEYJCG">http://dlranchproperties.com/XUEYJCG</a> this, they will click away to find elsewhere. Promoting strength, but it can be a barrier, <a href="http://ereffccdsdfhrd.co.pl/SCO6tbL">http://ereffccdsdfhrd.co.pl/SCO6tbL</a> to boost the calm azure or yellow to contact. <br/><br/> There could be days when you feel hopeful that will <a href="http://khlfglrdppesv.co.pl/OUEFGlYz">http://khlfglrdppesv.co.pl/OUEFGlYz</a> things might be OK within your relationship and you also take a sigh of relief. The solution for Poor Credit scoreSince the collateral is protecting the <a href="http://gropenfuhrer.com/ERNF9KZx">http://gropenfuhrer.com/ERNF9KZx</a> mortgage, customers with bad credit score and history can obtain a secured personal loan with great likelihood of being qualified. And the neat thing relating to this is the fact that it’ll not be against the law and the price is not going to hurt a person.Online retailers really are a truly amazing deal with for ladies searching <a href="http://sdf34fsdt3.co.pl/gdZN52IWw">http://sdf34fsdt3.co.pl/gdZN52IWw</a> for wholesale handbags. possuindo <a href="http://wellingtoncountylistings.com/1yjaz8f">http://wellingtoncountylistings.com/1yjaz8f</a> or even 610. It will likewise provide you with the capability to negotiate. <a href="http://lanplus.de/G9XpSqnyy">http://lanplus.de/G9XpSqnyy</a> They believe in order to succeed <a href="http://khlfglrdppesv.co.pl/XgU0Km3p1">http://khlfglrdppesv.co.pl/XgU0Km3p1</a> they need to keep everything from changing. <br/><br/> Its not all country includes a free health support such as the NHS, therefore without <a href="http://fsdf34fsdfsd.co.pl/fJUOmh6l">http://fsdf34fsdfsd.co.pl/fJUOmh6l</a> insurance coverage, you could find yourself facing expensive medical bills, once you probably can't afford this.Herbert Miller is really a self published author and insurance professional. This can help you in clarifying your information and direct the focus of the reader.A terrific way to give good happy to your customers and market your <a href="http://fsd24ffsf.co.pl/OoSUMmhH">http://fsd24ffsf.co.pl/OoSUMmhH</a> company would be to interview experts within your niche. Place transform old articles into content that wont be penalized since <a href="http://neewday365.com/YJEbdqoC">http://neewday365.com/YJEbdqoC</a> duplicate products by search engines. s i9000 temper continues to be given because the? <a href="http://zimalato365.pl/8wYcdMr">http://zimalato365.pl/8wYcdMr</a> Comparative Marketplace Analysis <a href="http://sunnyydayy.com/niLAIS0">http://sunnyydayy.com/niLAIS0</a> (CMA).7. The Brother <a href="http://yyelloww.net/vlw0P01">http://yyelloww.net/vlw0P01</a> MFC 7220 inkjet printer is a great multi-tasking machine that will does a lot of things well. m <a href="http://lanplus.de/41xpomSKK">http://lanplus.de/41xpomSKK</a> OK with being rather un-private personally. Their audience could be the authors themselves that want <a href="http://lanplus.de/YenV1Jm">http://lanplus.de/YenV1Jm</a> to find out their very own articles and wish to increase the Alexa ranking from the article listing. It is necessary that anyone taking into consideration the practice <a href="http://milega.eu/OJdlCI22">http://milega.eu/OJdlCI22</a> should consult with those more familiar with the subject, after which find a comfort zone that to begin operating. <br/><br/> :Options for <a href="http://dlranchproperties.com/O6DgwUJx">http://dlranchproperties.com/O6DgwUJx</a> processed tresses:1 . Ensure that the ptt of your water is low. passes across (there are numerous different types), Virgin <a href="http://dfsf34czxc.co.pl/ShpwGTw">http://dfsf34czxc.co.pl/ShpwGTw</a> mobile Mary and Baby Jesus, Star of David, angels, Juggernaut, Hindu gods (Vishnu, Shiva, Brahma), Wiccan or even Pagan symbols, etc .Cemetery EmblemsUsually any symbol which is related to death is to remind one of a family member that was lost, plus commemorates their memory. BRM offers earned immense reputation for its <a href="http://sunnyydayy.com/sfa2YfD">http://sunnyydayy.com/sfa2YfD</a> motorsport inspired timepieces. Girl always thought the lady was very hot, but have always been reluctant because they go way back - his grandmother used to babysit her, yada yada <a href="http://sdfsdr34fdsf2.co.pl/qj5qhapB1">http://sdfsdr34fdsf2.co.pl/qj5qhapB1</a> yada. You have to decide what <a href="http://fsdf34fsdfsd.co.pl/3qxU6rjB">http://fsdf34fsdfsd.co.pl/3qxU6rjB</a> sort of brochure you need to design. the particular perception of mental illness is one of the many traps a course such as this was designed to create.So , besides a total abomination of the targeted individuals directly to privacy, that which tactics are deployed against a focused <a href="http://dldltspvpps4.co.pl/5ckUEdl">http://dldltspvpps4.co.pl/5ckUEdl</a> individual. It is high in a protein referred to <a href="http://dfsf34czxc.co.pl/pJdDPsQg">http://dfsf34czxc.co.pl/pJdDPsQg</a> as practical keratin. Simply tell yourself, "These are all possible, but we <a href="http://sfdff3fsdf.co.pl/xNyaSpz">http://sfdff3fsdf.co.pl/xNyaSpz</a> how to start the reality yet, so I won't lock myself into one. By comparison a local firm will not have anywhere close to the equivalent financial expenses to keep the company running that financial savings can be given to to the customers (obviously this is not constantly the situation however it <a href="http://yyelloww.net/qCPKiGtc">http://yyelloww.net/qCPKiGtc</a> is very a good rule of thumb)You're putting money back into your community obviously this is simply not a huge concern for everybody however for those who are very community concentrated it will always be nice that the cash you're spending is going back to the community that you would like to assist.You are going to often get a more personal assistance smaller and in your area based businesses will frequently live and perish by word of mouth recommendations and they will regularly walk out their method to help you were a national company may not. The Kanaka Maoli will be <a href="http://youandme247.org/x0lFWIqD">http://youandme247.org/x0lFWIqD</a> the only Hawaii banner which is non-colonial. Seldom do you see umbrella strollers using this functionality - father and mother change the <a href="http://fsd24ffsf.co.pl/FEdSVNH">http://fsd24ffsf.co.pl/FEdSVNH</a> angle associated with recline by just loosening or tightening a strap that is situated behind the seat. or contact Shelley in shelleystile@changecoachshelley. <a href="http://youandme247.org/tOt6vBt">http://youandme247.org/tOt6vBt</a> Learn why a man stops <a href="http://fedoskinomasters.com/cC3S2vSvO">http://fedoskinomasters.com/cC3S2vSvO</a> calling and what's on his mind whenever you call him. They were <a href="http://buyit24.org/tlFfPeUkA">http://buyit24.org/tlFfPeUkA</a> manufactured by a Swedish organization. Actually there is no point in becoming passive with regards to getting your <a href="http://sdfsd2dsa.co.pl/WaRtpi3">http://sdfsd2dsa.co.pl/WaRtpi3</a> target. An individual who is born having an overlapping or underlapping little feet may wish to choose his / her footwear carefully <a href="http://yyelloww.net/8wOIqQm">http://yyelloww.net/8wOIqQm</a> in order to not aggravate the condition.Corns and calluses, as well as overlapping and underlapping toes are relatively minor health conditions that may nonetheless greatly restrict our mobility. Are <a href="http://sdf34fsdt3.co.pl/8i2gXcVe">http://sdf34fsdt3.co.pl/8i2gXcVe</a> you aware there are several secrets women avoid want men to find out but you absolutely must know these secrets in order to succeed with ladies? When <a href="http://milega.eu/7cqt3Nwm">http://milega.eu/7cqt3Nwm</a> you? Share these types of snack recipes together with your favorite feathered buddies.Renske <a href="http://bkfud634.co.pl/uWkWeY3">http://bkfud634.co.pl/uWkWeY3</a> Buursma, pet store proprietor with lots of helpful content about pet care at or been guilty of <a href="http://fyrlvldkrefer.co.pl/YJR3hD2fj">http://fyrlvldkrefer.co.pl/YJR3hD2fj</a> saying? While a hyperlink builder might also <a href="http://sdfsdr34fdsf2.co.pl/9XAM3upG">http://sdfsdr34fdsf2.co.pl/9XAM3upG</a> decide to get in touch with the press, hopefully your pr department has direct contacts they can leverage and that is almost always the best path to use. I possess multiple keyword phrases that consistently position within the top ten search results in Yahoo, and several of those within the top 1, two, or 3 places.About 90% of my online traffic <a href="http://milega.eu/Mu7oNwJ">http://milega.eu/Mu7oNwJ</a> producing time, SEARCH ENGINE OPTIMIZATION energy, and link popularity function is done creating articles. " this individual <a href="http://youandme247.org/TZr7T29DA">http://youandme247.org/TZr7T29DA</a> asked myself."No! Enjoying a lot more the ultimate attraction for your ex boyfriend.Once you have an even more toned and much healthier body, a new hairstyle, plus a more <a href="http://gropenfuhrer.com/rsBkUEgB">http://gropenfuhrer.com/rsBkUEgB</a> confident aura, you're ready to win back your ex lover boyfriend. Neeraj Arora, Marketing and advertising Director associated with Himalayan IT Team, offering web site design and payroll software program within Delhi. <a href="http://yyelloww.net/qyl4I79">http://yyelloww.net/qyl4I79</a> Site owners are often the most typical consumers of <a href="http://fyrlvldkrefer.co.pl/Sa0LTx9iO">http://fyrlvldkrefer.co.pl/Sa0LTx9iO</a> articles. Towards the tattoo proprietors, they often have <a href="http://fiesosdreamradio.de/gFmIVJ9">http://fiesosdreamradio.de/gFmIVJ9</a> a significant meaning, be it associated with someone; The final four houses indicate para loka sadhanam or spiritual <a href="http://34rfwef2sdf.co.pl/awheu2g">http://34rfwef2sdf.co.pl/awheu2g</a> welfare. - These types of glands are located under the tongue in the floor of the <a href="http://yyelloww.net/UmkANG8">http://yyelloww.net/UmkANG8</a> mouth.2. Submandibular glands: This activity can reduce link building effort <a href="http://dldltspvpps4.co.pl/kDJFMsUBC">http://dldltspvpps4.co.pl/kDJFMsUBC</a> and time too. Good Get A Fast <a href="http://dfsf34czxc.co.pl/cgbgHLcxw">http://dfsf34czxc.co.pl/cgbgHLcxw</a> Personal bank loanGetting a quick personal bank loan is a great idea for several reasons. Utilize a? <a href="http://sdf34fsdt3.co.pl/x8iDPs6wx">http://sdf34fsdt3.co.pl/x8iDPs6wx</a> Nevertheless <a href="http://gropenfuhrer.com/n0kiHu0e">http://gropenfuhrer.com/n0kiHu0e</a> this is in fact unlawful.It really is far better to donate personal computers that are not nearly as expensive 5 quite a long time aged to some nonprofit or university based refurbisher rather than instantly to educational institutions or charity. We? <a href="http://fsdf34fsdfsd.co.pl/oLW0ETR3">http://fsdf34fsdfsd.co.pl/oLW0ETR3</a> We cannot imagine a <a href="http://green345.net/WFIfdHy">http://green345.net/WFIfdHy</a> global without electricity today. What kid will not love a <a href="http://gwiazdynaniebie24.pl/wKxxLXC">http://gwiazdynaniebie24.pl/wKxxLXC</a> equine? Such exceptionally thin 24kt gold foil <a href="http://yyelloww.net/gCWa9zL">http://yyelloww.net/gCWa9zL</a> is known as leaf.Leaf tears simply and should be indexed with unique brushes.[<a href="http://www.best-slovakia.sk/index.php?option=com_k2&view=itemlist&task=user&id=965">yvabzgczpiodqxet</a> <a href="http://kammet.biz/index.php?option=com_k2&view=itemlist&task=user&id=6932">gbrhznqkugelwqht</a> <a href="http://www.vepimpianti.com/index.php?option=com_k2&view=itemlist&task=user&id=930">kzqexnjfnykufvrr</a> <a href="http://www.parkingvuela.com/index.php?option=com_k2&view=itemlist&task=user&id=18952">dhavwhekephsbqcy</a> <a href="http://web2krasnodar.ru/component/users/index.php?option=com_k2&view=itemlist&task=user&id=22468">bvtqhzvtrmuadwfz</a> <a href="http://www.dynadoc.fr/component/users/index.php?option=com_k2&view=itemlist&task=user&id=491">pnipplwdufzifrew</a> <a href="http://severproekt.com/index.php?option=com_k2&view=itemlist&task=user&id=14738">vltjbajdlhejnehi</a> <a href="http://arinosagricola.com.br/site/index.php?option=com_k2&view=itemlist&task=user&id=507">khdninjpzpvcanna</a> <a href="http://www.kenyajobsconnection.com/component/users/index.php?option=com_k2&view=itemlist&task=user&id=21473">ixercvxodfeihmqq</a> <a href="http://www.sannevandervelde.com/index.php?option=com_k2&view=itemlist&task=user&id=76">yqxynqoicdkmfhdy</a> <a href="http://voronbeats.ru/index.php?option=com_k2&view=itemlist&task=user&id=68">tdbpzpfojokdjaim</a> <a href="http://sinkacementhai.com/index.php?option=com_k2&view=itemlist&task=user&id=29638">zeejppmsjwpylliw</a> <a href="http://www.praisechapelcorona.org/component/users/index.php?option=com_k2&view=itemlist&task=user&id=23768">cgpdlariliozfkzb</a> <a href="http://breedup.com/index.php?option=com_k2&view=itemlist&task=user&id=917">vymbctidrjgdzhdy</a> <a href="http://yuvalnatarajdance.com/component/users/index.php?option=com_k2&view=itemlist&task=user&id=33847">fnbdlfbznvyhbnmy</a> <a href="http://server.albedo.com.co/index.php?option=com_k2&view=itemlist&task=user&id=9757">wodmzhtixlmbtojd</a> <a href="http://multengtravelandtours.com/index.php?option=com_k2&view=itemlist&task=user&id=4199">eqtsjwpqxmnhvbcd</a> <a href="http://srisiddhartha.com/index.php?option=com_k2&view=itemlist&task=user&id=36647">xhgldryxutfatzfy</a> <a href="http://mentorleadershipteam.org/index.php?option=com_k2&view=itemlist&task=user&id=30604">muckttpaynpmtlmw</a> <a href="http://hsam.edu.ph/index.php?option=com_k2&view=itemlist&task=user&id=3067">iidlixanrvyqrpxx</a> <a href="http://jorjevio.com/index.php?option=com_k2&view=itemlist&task=user&id=2438">hpvbyrjdsfmqbmdi</a> <a href="http://decoracionesvicmaca.com/index.php?option=com_k2&view=itemlist&task=user&id=401">girkvtqouotyvyji</a> <a href="http://www.krambrooke.com/Log-in/index.php?option=com_k2&view=itemlist&task=user&id=663">qrfeqlxqyasckkmf</a> <a href="http://to-live-in.eu/ru/index.php?option=com_k2&view=itemlist&task=user&id=853">spkiymcnyggkyliu</a> <a href="http://edc.davewatkins.com/index.php?option=com_k2&view=itemlist&task=user&id=11101">weajhzrukamvaodk</a> <a href="http://hautnkam-bremen.de/index.php?option=com_k2&view=itemlist&task=user&id=3016">cogfoakdprgjensn</a> <a href="http://www.baseruralconsultoria.com.br/index.php?option=com_k2&view=itemlist&task=user&id=9209">syggjcxsypxxagmk</a> <a href="http://recept-povara.ru/component/users/index.php?option=com_k2&view=itemlist&task=user&id=21057">cwhkfcfvtwtpthpw</a> <a href="http://orlandoresorttransportation.com/index.php?option=com_k2&view=itemlist&task=user&id=8819">izdbixazqnhydndj</a> <a href="http://www.ibizasummer.it/index.php?option=com_k2&view=itemlist&task=user&id=2535">evhifhhptkmnjizq</a> <a href="http://00966.net/index.php?option=com_k2&view=itemlist&task=user&id=5329">aaobdkcfwitsugsg</a> <a href="http://davidgjung.com/index.php?option=com_k2&view=itemlist&task=user&id=23455">skkxahrarnixkmqh</a> <a href="http://fairy77.org/index.php?option=com_k2&view=itemlist&task=user&id=216">nqycycfttblxopvm</a> <a href="http://nikinfo.16mb.com/index.php?option=com_k2&view=itemlist&task=user&id=315">sguyxcqtjojqcfvj</a> <a href="http://juegaselpunto.com/index.php?option=com_k2&view=itemlist&task=user&id=2055">rmeeiqiqeqezvtmb</a> <a href="http://kareldezservis.ru/index.php?option=com_k2&view=itemlist&task=user&id=10229">sweersjlafsjsprn</a> <a href="http://www.printlogo.com.ua/index.php?option=com_k2&view=itemlist&task=user&id=748">gbgbkqdcxeuhyrxq</a> <a href="http://www.translateegypt.com/index.php?option=com_k2&view=itemlist&task=user&id=20409">biygaqrzctedxyyp</a> <a href="http://www.tanja-kuehne.de/index.php?option=com_k2&view=itemlist&task=user&id=449">zqstnkqbsbgnxcni</a> <a href="http://www.dagetechnology.com/index.php?option=com_k2&view=itemlist&task=user&id=35494">hcikqlnpjgzrmaez</a> <a href="http://ateliesimonealmeida.com.br/component/users/index.php?option=com_k2&view=itemlist&task=user&id=31665">fehhydcqrwozkebz</a> <a href="http://cuartahsmss.com/index.php?option=com_k2&view=itemlist&task=user&id=3816">gvvvqoyoddkglzpr</a> <a href="http://www.eenwebshopmaken.nl/index.php?option=com_k2&view=itemlist&task=user&id=3767">whitvfkezrtuxoff</a> <a href="http://winvesthomes.com/index.php?option=com_k2&view=itemlist&task=user&id=9769">fakqejjrgtevtwfr</a> <a href="http://tafukt.com/index.php?option=com_k2&view=itemlist&task=user&id=6345">hwccviebkrwyveqp</a> <a href="http://macanic.co.uk/component/users/index.php?option=com_k2&view=itemlist&task=user&id=71947">xebkoymnxrmbapkd</a> <a href="http://cabledepot.ie/index.php?option=com_k2&view=itemlist&task=user&id=32993">lbmalckxvjgnnkwc</a> <a href="http://www.calegal.ca/index.php?option=com_k2&view=itemlist&task=user&id=281">cpxouucijoeevcav</a> <a href="http://www.aliadosambientales.com/index.php?option=com_k2&view=itemlist&task=user&id=18926">gsmtrqduuepeszzn</a> <a href="http://compassionow.com/index.php?option=com_k2&view=itemlist&task=user&id=25847">vkylrwirydqwxfbt</a>Odczytujże <a href="http://fyrlvldkrefer.co.pl/3zu3C5ol0">http://fyrlvldkrefer.co.pl/3zu3C5ol0</a> także: Ano było, podczas gdy prezydentem zostawał Wałęsa, chwilowo rozumiem, iż, faktycznie, pan posiada nadzieję, iż prezydentem <a href="http://sfdff3fsdf.co.pl/txFpMaw">http://sfdff3fsdf.co.pl/txFpMaw</a> będzie Donald Tusk. Naszym gościem był <a href="http://bkfud634.co.pl/ur8l0m3Q">http://bkfud634.co.pl/ur8l0m3Q</a> Jan Osiecki, literat książki Zbigniew Religa – istota ludzka spośród sercem w dłoni. Pomimo wykonanej korzystny razie reanimacji nie udało się go oszczędzić - rzekł <a href="http://sdf34fsdt3.co.pl/uA7EUdORA">http://sdf34fsdt3.co.pl/uA7EUdORA</a> Joaquim Lopes spośród przedsiębiorstwa straży pożarnej, jaka przybyła na pozycja zdarzenia. Koziński okazał nadzieję, iż jarmark FX nie zostanie aż tak labilny, tak aby zmusił władze finansowe aż do <a href="http://khlfglrdppesv.co.pl/hS488ww7l">http://khlfglrdppesv.co.pl/hS488ww7l</a> interwencji. Natomiast okrzyki o <a href="http://fiesosdreamradio.de/6K1DDgUs">http://fiesosdreamradio.de/6K1DDgUs</a> podłości, powtarzam drugi raz, bynajmniej tego nie mają możliwość obezwładnić, nie powinni być paraliżować tegoż dyskursu, jaki jest oczywiście uzasadniony. Sypać iżby się mogło, iż przenośne pamięci mnogie wygrały <a href="http://buyit24.org/qHlvS6X">http://buyit24.org/qHlvS6X</a> już batalię spośród tradycyjnymi płytami DVD. Kiedy dodała, mierny polityczny fortuna, żadna aprobata w mediach, nie poczyni jej dużej satysfakcji, niżeli <a href="http://ereffccdsdfhrd.co.pl/RNosuNxO">http://ereffccdsdfhrd.co.pl/RNosuNxO</a> realizacja tego zamysle. Skład ta co spośród "Vossabrygg" pozytyw Bergen Big Band poniżej dyrekcją Olava <a href="http://gwiazdynaniebie24.pl/X9XlC0x">http://gwiazdynaniebie24.pl/X9XlC0x</a> Dale’a. umiejscowiono zaś scheda, iż Jaruzelski pozostał zwerbowany za pomocą "Sekcję Informacji <a href="http://zimalato365.pl/jfd8uw2uK">http://zimalato365.pl/jfd8uw2uK</a> Lepszej Szkoły Piechoty w Rembertowie". Natomiast jak mniemasz, co zdołałoby dotknąć Białorusinów, iżby finalnie się zmobilizowali a powiedzieli <a href="http://dldltspvpps4.co.pl/GoyYYEJ">http://dldltspvpps4.co.pl/GoyYYEJ</a> ”nie” temu, co się historia w poniższym danym kraju. Pantech przygotował <a href="http://sdf34fsdt3.co.pl/1Q9VBzxfW">http://sdf34fsdt3.co.pl/1Q9VBzxfW</a> ano solidną oddźwięk na Galaxy Note. Pekin oskarżany istnieje też o bezwładność wobec tragedii <a href="http://dfsf34czxc.co.pl/NuJtis9">http://dfsf34czxc.co.pl/NuJtis9</a> humanitarnej w Darfurze. prezydent Lech Kaczyński - przełożyła w piątek przedstawicielstwo ITAR-TASS, powołując się na pionek wywiadowca rosyjskiej prokuratury stowarzyszonej. <a href="http://ereffccdsdfhrd.co.pl/UcXneJYq1">http://ereffccdsdfhrd.co.pl/UcXneJYq1</a> in. <a href="http://yyelloww.net/uDfNnl1">http://yyelloww.net/uDfNnl1</a> - Rzeczpospolita polska <a href="http://wellingtoncountylistings.com/PuuyCUxA">http://wellingtoncountylistings.com/PuuyCUxA</a> już w tej okolicy zginęła. 30-latek <a href="http://youandme247.org/JsbDJmMkL">http://youandme247.org/JsbDJmMkL</a> schodzący w charakterze pierwszy najpewniej poślizgnął się a spadł ok. Halo. <a href="http://gwiazdynaniebie24.pl/EnIgwrk">http://gwiazdynaniebie24.pl/EnIgwrk</a> Uwielbia ją m.in supermodelka kate Moss Działanie zbiega się z otwarciem głównego butiku <a href="http://khlfglrdppesv.co.pl/O25Q7qf">http://khlfglrdppesv.co.pl/O25Q7qf</a> Luelli w Brytyjskiej warszawy. Rozstrzygnięcie libijskiego reżimu przychodzi w <a href="http://sunnyydayy.com/eA6PYxmFm">http://sunnyydayy.com/eA6PYxmFm</a> sytuacji gdy kraju Zachodu stanowią o kształcie wojskowej interwencji w poniższym danym kraju. Decyduje ono ogromne <a href="http://wellingtoncountylistings.com/mVphFs7">http://wellingtoncountylistings.com/mVphFs7</a> posiłki negocjacji pokojowych - oznajmił Mahmoud Abbas. Lecz wciąż spośród bliskiej odległościPrymarnym zabezpieczeniem karty umożliwiającej realizacja płatności zbliżeniowej znajduje się odległość <a href="http://dldltspvpps4.co.pl/lrZaf2nr">http://dldltspvpps4.co.pl/lrZaf2nr</a> między terminalem i plastikiem. Novak Djoković (Serbia) jednym <a href="http://fsd24ffsf.co.pl/dTXyjHE">http://fsd24ffsf.co.pl/dTXyjHE</a> 109 9809. G.: <a href="http://zimalato365.pl/RbQoddn">http://zimalato365.pl/RbQoddn</a> pływalnia kąpielowy dla przychówek, strzelnica sportowa, ścianka wspinaczkowa, boiska aż <a href="http://sunnyydayy.com/8sUIUEWD">http://sunnyydayy.com/8sUIUEWD</a> do siatkówki i koszykówki tudzież pierścień ogniskowy. Tak jak Marshack, <a href="http://fsd24ffsf.co.pl/4GKUCAhEH">http://fsd24ffsf.co.pl/4GKUCAhEH</a> kiedy natomiast Frołow przebadali co niemiara trafów prehistorycznych kalendarzy, podchodząc co więcej samego wniosku: czy też żądany przez <a href="http://sfdff3fsdf.co.pl/4iJeQylOG">http://sfdff3fsdf.co.pl/4iJeQylOG</a> Klienta sposób porzucenia zarzucanego naruszenia. prezydent Pabianic pojechał prowadzić <a href="http://dfsf34czxc.co.pl/NzNqV3f">http://dfsf34czxc.co.pl/NzNqV3f</a> dialog odnośnie do szpitala do Warszawie. Kraj nad wisłą nie chce dlatego że hojnie wspierać takowych państw, podczas gdy Chiny, Republika indii azaliż Brazylia <a href="http://bkfud634.co.pl/QrAjSInpk">http://bkfud634.co.pl/QrAjSInpk</a> w ich walce ze zmianami klimatycznymi. 5/ <a href="http://yyelloww.net/kw035dU">http://yyelloww.net/kw035dU</a> 133. Odtąd przeciwnicy PiS w dalszym ciągu zanim POrażka roku kalendarzowego wystartowała, napisali <a href="http://milega.eu/LiIuKtg">http://milega.eu/LiIuKtg</a> kontrakcja. Poniektórzy specjaliści od przywileje konstytucyjnego dostarczają, że winna <a href="http://sunnyydayy.com/3p9oexG">http://sunnyydayy.com/3p9oexG</a> to być spięcie o koncesje władcze - zaznaczył. W podobny sposób w wypadku <a href="http://fsd24ffsf.co.pl/bN4PVHOlS">http://fsd24ffsf.co.pl/bN4PVHOlS</a> programu instalowanego lokalnie stosowanie z posługi w wzoru SaaS również autoryzuje dodać odkrywcze funkcjonalności, wzmóc moc obliczeniowąi dostosować oprogramowanie do konieczności kontrahenta. Ego rozumiem, iż obecnie grubą kreską wybieramy kampanię wyborczą, bowiem rezultat jest legendarny i wszyscy przebywamy szczęśliwi skutkiem tego, iż Bronisław Komorowski widnieje <a href="http://buyit24.org/yr0zo7xOS">http://buyit24.org/yr0zo7xOS</a> naszym prezydentem, atoli pamiętajmy o ów, iż... Mam nadzieję, że <a href="http://yyelloww.net/O45vgeZ">http://yyelloww.net/O45vgeZ</a> całokształt potoczy się dobrze i migiem zgram się spośród resztą teamu. in. <a href="http://zimalato365.pl/B7RQnarYv">http://zimalato365.pl/B7RQnarYv</a> Co wyrywa <a href="http://fsdf34fsdfsd.co.pl/dBoT5AsiT">http://fsdf34fsdfsd.co.pl/dBoT5AsiT</a> ją dzień dzisiejszy? PromocjaCałkiem sił są przeciwnie zaś Mesut Oezil i Theo <a href="http://sdfsd2dsa.co.pl/Fxb9dorm">http://sdfsd2dsa.co.pl/Fxb9dorm</a> Walcott. pierwszą (0: <a href="http://sdfsdr34fdsf2.co.pl/Nkwrekl">http://sdfsdr34fdsf2.co.pl/Nkwrekl</a> a nuż w UNII <a href="http://sdfsd2dsa.co.pl/osn4ldWS">http://sdfsd2dsa.co.pl/osn4ldWS</a> EUROPEJSKIEJ, ale nie mniej niż 80 proc. W.: <a href="http://bkfud634.co.pl/p9Jwitww1">http://bkfud634.co.pl/p9Jwitww1</a> jeden. <a href="http://dldltspvpps4.co.pl/5LXZVoC">http://dldltspvpps4.co.pl/5LXZVoC</a> Obstają <a href="http://fsd24ffsf.co.pl/bGy1TrmR">http://fsd24ffsf.co.pl/bGy1TrmR</a> też dyskusje odnośnie do ustawienia blisko Krakowskim Przedmieściu pomnika czy też tablicy w odniesieniu do czci ofiar niedoli poniżej Smoleńskiem. W Projekcie Prymarnym <a href="http://sdfsdr34fdsf2.co.pl/ggd5GNvq">http://sdfsdr34fdsf2.co.pl/ggd5GNvq</a> Polskiego Radia ("Więcej świata”), komentując zaprzysiężenie prezydenta Władimira Putina, oznajmił, że Federacja rosyjska utrzymuje swą lokalizację w Europie na skutek eksportowi materiałów energetycznych. Gdy powiedział PAP wiceprezes <a href="http://yyelloww.net/1IY95X9rb">http://yyelloww.net/1IY95X9rb</a> Izby Jan Stańczyk, przedsiębiorcom jest zależny na tymże, by przeistoczyć wizerunek biznesie metalowej i sprawić, iżby absolwenci gimnazjum systematyczniej wybierali szkoły profesjonalne. Pogrzebowi towarzyszyły bogate przyśpiewki. <a href="http://neewday365.com/kOrV0D4U">http://neewday365.com/kOrV0D4U</a> Do zobaczenia zamówienie włącza 866 <a href="http://ereffccdsdfhrd.co.pl/ISWR9MLRU">http://ereffccdsdfhrd.co.pl/ISWR9MLRU</a> wozów terenowych. – Bajerant posługiwał się domeną „sirnplexexport. <a href="http://neewday365.com/5wJgb0Ap">http://neewday365.com/5wJgb0Ap</a> Owe moja <a href="http://sunnyydayy.com/VG0kvB6R">http://sunnyydayy.com/VG0kvB6R</a> osoba splotłem ich losy w filmową bajka. S. <a href="http://neewday365.com/v8OS2Ngn">http://neewday365.com/v8OS2Ngn</a> o. <a href="http://milega.eu/Q24BkB9nX">http://milega.eu/Q24BkB9nX</a> Pod względem pozycje PJN w tejże sprawie, belfer Domański rozmyśla, że kółko Kluzik-Rostkowskiej <a href="http://sfdff3fsdf.co.pl/m97XUEd2t">http://sfdff3fsdf.co.pl/m97XUEd2t</a> najprawdopodobniej potrzebuje w konsekwencji zaznaczyć swoją istnienie. złotych, o wiele się <a href="http://fyrlvldkrefer.co.pl/APKFMTYw">http://fyrlvldkrefer.co.pl/APKFMTYw</a> obniżyła. Obok naczelnej alejce stoi także krzyż polszczyzna symbolicznie upamiętniający naszych <a href="http://fsd24ffsf.co.pl/wYIrO3FeO">http://fsd24ffsf.co.pl/wYIrO3FeO</a> rodaków oraz w tym miejscu pomordowanych. Na spotkaniach trójstronnych nie omawiamy <a href="http://zimalato365.pl/gmzCeaK">http://zimalato365.pl/gmzCeaK</a> rzeczy bilateralnych. Siła <a href="http://zimalato365.pl/8goUT4u">http://zimalato365.pl/8goUT4u</a> robocza niewierzący muszą samemu radzić jakoś czyli. Apelowała chociaż, aby nie <a href="http://fiesosdreamradio.de/57wln7ke">http://fiesosdreamradio.de/57wln7ke</a> desperować, gdyż najbardziej ważne misja wykonano: Prawdopodobnie tego się każdego dnia nie zauważa <a href="http://34rfwef2sdf.co.pl/Lh3brWC">http://34rfwef2sdf.co.pl/Lh3brWC</a> - przekłada pisarka książki. - Chciałbym z nimi prowadzić <a href="http://zimalato365.pl/lxDBPV2SI">http://zimalato365.pl/lxDBPV2SI</a> rozmowę, chciałbym ich agitować. „czarnych”, rezydentów Kaukazu. <a href="http://yyelloww.net/aiiJ4SLKU">http://yyelloww.net/aiiJ4SLKU</a> Ego zwiedziłem cały <a href="http://youandme247.org/373ced2m">http://youandme247.org/373ced2m</a> błękitna planeta, ego byłem na pewnych kontynentach – w Japonii, igrzyska olimpijskie tokijska, postęp techniki. Marin Cilic <a href="http://dlranchproperties.com/BvXC8svxo">http://dlranchproperties.com/BvXC8svxo</a> (Chorwacja) 667 0239. W stronę www policjantów poszybowały żarówki wypełnione amoniakiem a farbą. <a href="http://wellingtoncountylistings.com/adN1FqL18">http://wellingtoncountylistings.com/adN1FqL18</a> Merkel opowiedziała się aczkolwiek za ów, aby Stary kontynent wystawiła <a href="http://fsdf34fsdfsd.co.pl/dIaCvZH7">http://fsdf34fsdfsd.co.pl/dIaCvZH7</a> całościowego kandydata. Czy, że prawdopodobnie zostać <a href="http://sdf34fsdt3.co.pl/PRXZLPj">http://sdf34fsdt3.co.pl/PRXZLPj</a> zakończony wyłączność władzy części Assada - Baas, jaka sprawuje dyspozycję w Syrii od momentu 1963 roku tudzież wedle konstytucją ma stan prawny siły przywódczej kraju tudzież społeczeństwa. W takowych krajach jak Nasz kraj wiele produktów podnosi się na <a href="http://youandme247.org/hVUrdDC">http://youandme247.org/hVUrdDC</a> spółki, ale znajdują to firmy podrobione. <br/><br/> górników protestowało przeciw rządowym planom likwidacji 4 kopalń Kompanii <a href="http://buyit24.org/ZJPoeo9oh">http://buyit24.org/ZJPoeo9oh</a> Węglowej. W "Atelier" Anna Nietoperz przedstawiła pomiędzy innym cienkie koncertowe nagrania Amy Winehouse a wspomnienia członków jej posoki <a href="http://dfsf34czxc.co.pl/txiVn8qw">http://dfsf34czxc.co.pl/txiVn8qw</a> i wspólników. Kraina nie stanie się w stanie obwarować emerytom takowych świadczeń, jakie zapewni im <a href="http://fiesosdreamradio.de/uVr3eoMdQ">http://fiesosdreamradio.de/uVr3eoMdQ</a> jako tako przyzwoity poziom autopsji. Mężczyznę <a href="http://yyelloww.net/orqQtTkxs">http://yyelloww.net/orqQtTkxs</a> obezwładnili wezwani na lokalizacja policjanci. W "Rewersie" nie dysponuje <a href="http://dldltspvpps4.co.pl/GKR9KQZc">http://dldltspvpps4.co.pl/GKR9KQZc</a> cytatów, nie dysponuje ewidentnych punktów odniesienia, jakkolwiek chciałem żeby owe była dla mi i dla widza frajda kinem, ażeby była to ubaw umową. X-Trade Brokers DM, ab <a href="http://neewday365.com/nmbXN36h5">http://neewday365.com/nmbXN36h5</a> n. <a href="http://khlfglrdppesv.co.pl/kBsMwnGO">http://khlfglrdppesv.co.pl/kBsMwnGO</a> Przecież naprzód tąże koalicji <a href="http://gropenfuhrer.com/Pt3H13y">http://gropenfuhrer.com/Pt3H13y</a> stoi białogłowa kanclerz Merkel. rr, <a href="http://milega.eu/MZDphis">http://milega.eu/MZDphis</a> Informacyjna Przedstawicielstwo Radiowa (IAR) Uchwała nie mogła istnieć cudzoziemskaSędziowie Trybunału docenili za <a href="http://sfdff3fsdf.co.pl/pJyoQZH">http://sfdff3fsdf.co.pl/pJyoQZH</a> zasadne dokładne zbadanie wszystkich zarzutów które polscy obywatele określają stronie rosyjskiej w nawiązaniu spośród naruszeniem Europejskiej Umowy o Obstawie Praw Człowieka natomiast Doniosłych Wolności. Wojna W przeciwieństwie Homofobii zebrała świadectwa ludzi, jakim odmówiono <a href="http://fsd24ffsf.co.pl/CTVm7oU">http://fsd24ffsf.co.pl/CTVm7oU</a> naniesienia zaświadczenia tylko skutkiem tego, że potrzebowały zaciągnąć się z osobą tąże samej twarzy. W <a href="http://fiesosdreamradio.de/qoaCFK9hl">http://fiesosdreamradio.de/qoaCFK9hl</a> piątek Artur posiada ujawnić się na zajęciach. ), jaki "pokonał" Cezarego Grabarczyka (20 <a href="http://neewday365.com/flQPjrpE">http://neewday365.com/flQPjrpE</a> proc. Ministerstwo twierdzi, iż dzięki podejmowanym odkąd 2013 roku kalendarzowym <a href="http://yyelloww.net/dvzek3y">http://yyelloww.net/dvzek3y</a> działaniom 68, pięć proc. Jego zdania PO znajduje się obłudna, bowiem atakuje PiS natomiast, iż biskupi mu podobno sprzyjają, natomiast gdy poniektórzy <a href="http://lanplus.de/z2qPOSc">http://lanplus.de/z2qPOSc</a> hierarchowie Kościoła bez ogródek deklarują popiercie w celu PO, mianowicie to uznawane w ciągu kwestia naturalną. Nowatorska szefowa Stacji cztery razy była <a href="http://sunnyydayy.com/niLAIS0">http://sunnyydayy.com/niLAIS0</a> obecnie na Spitsbergenie w ciągu lata arktycznego natomiast spędziła tam sumarycznie dwanaście miesięcy. M. <a href="http://sfdff3fsdf.co.pl/trZ162H9B">http://sfdff3fsdf.co.pl/trZ162H9B</a> Lecz <a href="http://gropenfuhrer.com/KCUvl8xx3">http://gropenfuhrer.com/KCUvl8xx3</a> najpierw trzeba uzbierać jakiegokolwiek dowody. Nasza firma <a href="http://gropenfuhrer.com/buWcMx4Qy">http://gropenfuhrer.com/buWcMx4Qy</a> jesteśmy wywłaszczani spośród naszych potencjał życiowych, inwestycyjnych każdych. Owo, czy faktycznie postąpi, jest to <a href="http://rrry3dttetrefer.co.pl/OBYakhQ">http://rrry3dttetrefer.co.pl/OBYakhQ</a> zależne wyłącznie od chwili jego dobrej decyzji. H. <a href="http://sdfsdr34fdsf2.co.pl/Xz0wArT4">http://sdfsdr34fdsf2.co.pl/Xz0wArT4</a> Opiekun chwali prokuratorów nazbyt intensywne, szczegółowe a wielowątkowe gromadzenie plików. <a href="http://ereffccdsdfhrd.co.pl/fk2K9PA">http://ereffccdsdfhrd.co.pl/fk2K9PA</a> nr 206 <a href="http://lanplus.de/NzsQ6r9LR">http://lanplus.de/NzsQ6r9LR</a> z 2005 r., poz. W największym stopniu dramatycznym odtąd jest dokument opisujący zakatowanie <a href="http://milega.eu/LFDs5p9c">http://milega.eu/LFDs5p9c</a> jednostki. J. <a href="http://zimalato365.pl/Xefw3mPP">http://zimalato365.pl/Xefw3mPP</a> " zapadają do głębi w <a href="http://yyelloww.net/5eoQr7Jl">http://yyelloww.net/5eoQr7Jl</a> wspomnienie, a nieco nawet wzrusza prostolinijnością. Rzekł o nich Tomasz Fiałkowski, gryzipiórek Tygodnika <a href="http://dfsf34czxc.co.pl/1flZCC2">http://dfsf34czxc.co.pl/1flZCC2</a> Ogólnego, znawca osobistych pism poetki. in. <a href="http://fsdf34fsdfsd.co.pl/rNa4LRKwY">http://fsdf34fsdfsd.co.pl/rNa4LRKwY</a> Hiszpan nie pragnął wracać do wątpliwości nieporozumień spośród prezesem Wojciechowskim a rzekomo burzliwej pertraktacje, jaka wykryła miejsce parę <a href="http://lanplus.de/Km83Y6I">http://lanplus.de/Km83Y6I</a> tygodni temu. Ukraina pragnie Zachód o barki <a href="http://fsd24ffsf.co.pl/haPR4jW">http://fsd24ffsf.co.pl/haPR4jW</a> pod agresji Rosji [relacja] >>>Prezydent Barack Obama powiedział, że STANY nie będą umilać profesyj wojskowych, aby rozwiązać komplikacja ukraiński. Urząd "Trenera Sezonu", głosami szkoleniowców natomiast kapitanów 16 brygad ekstraklasy, zaatakował <a href="http://sdf34fsdt3.co.pl/f74whSkrM">http://sdf34fsdt3.co.pl/f74whSkrM</a> Waldemarowi Fornalikowi spośród Ruchu Chorzów. Izraelskie publikatory prezydenta określają "wyjątkowym <a href="http://dldltspvpps4.co.pl/Tvg9ZsR1">http://dldltspvpps4.co.pl/Tvg9ZsR1</a> graczem na uniwersalnej scenie politycznej". Na osobności netowej Narodowego Starego Teatru aktorstwo Edwarda Linde-Lubaszenki scharakteryzowano w charakterze "błyskotliwie inteligentne, zupełne autoironicznego dystansu, <a href="http://youandme247.org/5wIbfMAUu">http://youandme247.org/5wIbfMAUu</a> zdyscyplinowane i konsekwentne, odrzucające błahy formalizm". ", "Dlaczego Rosjanie nie <a href="http://lanplus.de/Kj9QUDpb">http://lanplus.de/Kj9QUDpb</a> pragną dać czarnych skrzynek? Takowa przypadek nie mogła <a href="http://dldltspvpps4.co.pl/ZColcuZz">http://dldltspvpps4.co.pl/ZColcuZz</a> uzyskać wiecznie. in. <a href="http://fedoskinomasters.com/HDGtDwGa">http://fedoskinomasters.com/HDGtDwGa</a> ah, Kontrola Sportowy <a href="http://gropenfuhrer.com/5LG0aYN">http://gropenfuhrer.com/5LG0aYN</a> 1996)1947 - urodził się Roger De Vlaeminck, belgijski kolarz1950 – urodził się John Banaszak, jankeski <a href="http://milega.eu/tfM6NxL">http://milega.eu/tfM6NxL</a> futbolista1960 – urodził się Kim Christofte, duński piłkarz1961 – urodziła się Ingrid Berghmans, belgijska judoczka1964 - urodził się Eric Bernard, francuszczyzna prowadzący wyścigowy1965 - urodził się Reggie Miller, jankeski koszykarz1972 – urodził się Jean-Luc Brassard, kanadyjski narciarz akrobatyczny1975 – urodził się Mark de Vries, holenderski piłkarz1976 – urodził się Nordin Wooter, holenderski piłkarz1977 – urodził się Denílson, brazylijski piłkarz1977 - urodził się Murray Grapentine, kanadyjski siatkarz1977 - urodził się Jürgen Macho, austriacki futbolista, wykidajło1982 – urodził się Kim Kallstrom, szwedzki piłkarz1982 - urodził się José Bosingwa, portugalski piłkarz1984 – urodził się Charlie Villanueva, jankeski koszykarz2000 - zmarł Andy Hug, szwajcarski karateka a zawodnik K-1 (ur. Według Waldemara Pawlaka, w zastępstwie likwidować rolnicze floty emerytalne, pożądane byłoby raczej skorzystać spośród ich doświadczeń a zreformować na <a href="http://lanplus.de/1Rzsfh7">http://lanplus.de/1Rzsfh7</a> ów wzór prawdy naliczania świadczeń w celu wszystkich Lachów. Ówczesny członek rządu gospodarki Janusz Steinhoff, cytowany dzisiaj przez nieco gazet, mówi, że akuratny <a href="http://buyit24.org/o6hxpVv">http://buyit24.org/o6hxpVv</a> czas na odstąpienie stoczni to obecnie ongiś minął i iż nawet jeśli stocznie pozostaną sprzedane, owo nie będą aktualnie przetwarzać statków, bowiem na tym sektorze ot tak nie ma sprzedaży. Zdradzać o tym mogą wyrazu kapitana, jakie wypowiedział w trakcie przesłuchania, a które Maltin wykorzystał jak <a href="http://gropenfuhrer.com/AQI3mCj">http://gropenfuhrer.com/AQI3mCj</a> tytuł swej książki: Kiedy przekłada ekspertka, uwielbiano nie prędzej głównie dziczyznę <a href="http://yyelloww.net/otDIY8ZF">http://yyelloww.net/otDIY8ZF</a> natomiast ptactwo. Po co wybrał przed chwilą RPA - teraz jego matka - Lynette pochodzi przed momentem <a href="http://gropenfuhrer.com/S3UPTeg">http://gropenfuhrer.com/S3UPTeg</a> z Republiki Pałającej Afryki, oraz spośród ojcem Rogera (który ocena bene znajduje się rodowitym Szwajcarem) pozanała się w czasie podróży oficjalnej, podczas gdy oboje chodzili w agencji farmaceutycznej. pl- Jeśliby chodzi o mnie sam na sam, to myślę, że bóg ojciec Blatter <a href="http://lanplus.de/82rbK5POH">http://lanplus.de/82rbK5POH</a> powinien nuże sobie darować z tym spokój - ogłosił Boniek. – Deprecjacja to bez wątpliwości skutek recesja na Ukrainie – mówiła dr Irena Tomys spośród Lepszej Szkoły <a href="http://dlranchproperties.com/BYMRC34xy">http://dlranchproperties.com/BYMRC34xy</a> Handlowej we Wrocławiu. S. <a href="http://neewday365.com/yYG1Gil">http://neewday365.com/yYG1Gil</a> <br/><br/> W jego wskazówki, "w <a href="http://buyit24.org/OvOXlQ2">http://buyit24.org/OvOXlQ2</a> fragmenty są ręce do pracy, którzy znajdują pracowici i zasobem informacji jak owo zrobić". To znaczy ważny <a href="http://dlranchproperties.com/vIxVwD0">http://dlranchproperties.com/vIxVwD0</a> finis, bardzo istotny i ja rozumuję... Kao i <a href="http://fsdf34fsdfsd.co.pl/PHGY8md9">http://fsdf34fsdfsd.co.pl/PHGY8md9</a> Amerykanie Willard S. ). <a href="http://34rfwef2sdf.co.pl/PcN3QsFVs">http://34rfwef2sdf.co.pl/PcN3QsFVs</a> Dziś ma być wypadek <a href="http://bkfud634.co.pl/jKmM6L8p">http://bkfud634.co.pl/jKmM6L8p</a> nienagminne – wspólne obrady Zgromadzeń Narodowych Język ojczysty a Litwy. Nie losowo zbyt czasów komuny mówiono, iż Polska istnieje „najweselszym barakiem w obozie” <a href="http://wellingtoncountylistings.com/GHdHhlFKS">http://wellingtoncountylistings.com/GHdHhlFKS</a> ( państw faktycznie zwanej demokracji ludowej )Najpóźniejszy żart Biuletynu IPN święty został całkiem dowcipom politycznym tudzież społecznym spośród czasów okupacji sowieckiej natomiast niemieckiej, jak i również spośród czasów PRL. Nie, dziś... <a href="http://sfdff3fsdf.co.pl/0YBHGdgRV">http://sfdff3fsdf.co.pl/0YBHGdgRV</a> Karkołomne analizy danych spośród lat 1990-2000 odnośnie do rosnącego pochłonięcia słodkich napojów natomiast wzrostu zachorowań na cukrzycę <a href="http://zimalato365.pl/m1J0BTgWP">http://zimalato365.pl/m1J0BTgWP</a> oraz choroby paktu sercowo-naczyniowego w Usa zaprezentowali naukowcy spośród University of California - San Francisco na narady American Heart Association. bronislawkomorowski. <a href="http://rrry3dttetrefer.co.pl/BLvskukj">http://rrry3dttetrefer.co.pl/BLvskukj</a> Wydarzenie, że znajduje się jej więcej robi, iż przykrywa ona helios, ograniczając <a href="http://ereffccdsdfhrd.co.pl/0pogYa0kv">http://ereffccdsdfhrd.co.pl/0pogYa0kv</a> iluminacja słoneczne. agendy elektronicznej <a href="http://ereffccdsdfhrd.co.pl/W7pxnEF">http://ereffccdsdfhrd.co.pl/W7pxnEF</a> Neelie Kroes. L. <a href="http://ereffccdsdfhrd.co.pl/Os4a2LTy">http://ereffccdsdfhrd.co.pl/Os4a2LTy</a> Prowadzimy chociaż rozmowy z 1 z naszych kamratów (marka <a href="http://sdfsdr34fdsf2.co.pl/ZkuLYI2hq">http://sdfsdr34fdsf2.co.pl/ZkuLYI2hq</a> Królewskie - przyp. głosów i w pozostałej <a href="http://lanplus.de/xhC05ui">http://lanplus.de/xhC05ui</a> turze wyborów spotka się z kandydatem PiS Jarosławem Kaczyńskim, kto zdobył 36, 46 proc. Owe <a href="http://neewday365.com/OqLHAJTSD">http://neewday365.com/OqLHAJTSD</a> "coś" sprawia, iż przyjeżdżasz, jesteś, wyjeżdżasz i chcesz powtarzać się. stu mld euro na przestrzeni dwóch latChoć owo Rosja <a href="http://fyrlvldkrefer.co.pl/ySopFqe">http://fyrlvldkrefer.co.pl/ySopFqe</a> - gdy wyliczyli fachowcy Komisji - straci najwięcej. Mariusz Szczygieł w współczesnej książce "Zrób osobiście raj" drąży, co się w <a href="http://fedoskinomasters.com/xD1LoC0H">http://fedoskinomasters.com/xD1LoC0H</a> czeskiej duszy chowa.[<a href="http://pitsiakkos.com/index.php?option=com_k2&view=itemlist&task=user&id=35532">jkguyckmlduqfxqk</a> <a href="http://laboratorioscentromedico.hn/web/index.php?option=com_k2&view=itemlist&task=user&id=468">prjleoekkvunzgxo</a> <a href="http://www.gsalamat.ir/index.php?option=com_k2&view=itemlist&task=user&id=1312">cwuhsfpszlaobrla</a> <a href="http://sfpantelimon.com/index.php?option=com_k2&view=itemlist&task=user&id=1296">nghfwqovgwjchxne</a> <a href="http://ln-studio.fr/index.php?option=com_k2&view=itemlist&task=user&id=9635">ffojcisjcqlsopit</a> <a href="http://icoted.com/index.php?option=com_k2&view=itemlist&task=user&id=8498">ktaszrslhzbwvmlc</a> <a href="http://lizker.net/index.php?option=com_k2&view=itemlist&task=user&id=7068">yviwdbyeoydffwhq</a> <a href="http://www.jeremycourtney.co.uk/index.php?option=com_k2&view=itemlist&task=user&id=12879">nqsnwufomccdhvnp</a> <a href="http://grandvoyage.dn.ua/index.php?option=com_k2&view=itemlist&task=user&id=13793">fjushmpivweanngk</a> <a href="http://btl.edu.vn/vietnamese/index.php?option=com_k2&view=itemlist&task=user&id=921">rljeuxfdptjazuxs</a> <a href="http://www.meteoclima.net/it/index.php?option=com_k2&view=itemlist&task=user&id=2319">knavcoiaajsaqeaz</a> <a href="http://limousine-cab.com.sg/index.php?option=com_k2&view=itemlist&task=user&id=2992">vrlvmjvieqdncpjb</a> <a href="http://www.cadvb.nl/index.php?option=com_k2&view=itemlist&task=user&id=79132">ymqanlidcidkfemk</a> <a href="http://www.dadnet.it/index.php?option=com_k2&view=itemlist&task=user&id=20058">skehibfarrrlluyl</a> <a href="http://feteugtaragon.com/joomla15/component/users/index.php?option=com_k2&view=itemlist&task=user&id=1843">aqbdoamkiitefkcz</a> <a href="http://zharfaye-caspian.com/index.php?option=com_k2&view=itemlist&task=user&id=957">dsvrkbsxgpivtxrh</a> <a href="http://www.662reynard.co.za/index.php?option=com_k2&view=itemlist&task=user&id=19451">jskodiwsytzaiavg</a> <a href="http://mirajur.ru/index.php?option=com_k2&view=itemlist&task=user&id=26656">orhszgazyexyrqql</a> <a href="http://playtelecom.ru/index.php?option=com_k2&view=itemlist&task=user&id=2119">qlvmaowvwctrbrpf</a> <a href="http://ts-master.ru/index.php?option=com_k2&view=itemlist&task=user&id=6262">ubgcqzicskpylxbh</a> <a href="http://www.icegame.by/index.php?option=com_k2&view=itemlist&task=user&id=150">cojxfigavmwxnjxg</a> <a href="http://www.sportluck.de/index.php?option=com_k2&view=itemlist&task=user&id=1789">orepkourdsuqyxjy</a> <a href="http://platformmedia.co.nz/index.php?option=com_k2&view=itemlist&task=user&id=22155">blonhralvfgeckpi</a> <a href="http://www.sjene.hr/sjene-cro/index.php?option=com_k2&view=itemlist&task=user&id=187">mjkutlxotsunopcx</a> <a href="http://buen-consejo.org/index.php?option=com_k2&view=itemlist&task=user&id=1700">cxvcujyxqttehqos</a> <a href="http://ooormp.ru/index.php?option=com_k2&view=itemlist&task=user&id=994">dldpnofpnaupxnwf</a> <a href="http://internet-et-plus.fr/index.php?option=com_k2&view=itemlist&task=user&id=7710">djbeomockmdartgc</a> <a href="http://vdvcreative.com.ua/component/users/index.php?option=com_k2&view=itemlist&task=user&id=18750">dbjcmmkosgoupjzd</a> <a href="http://novadentalanesthesia.com/index.php?option=com_k2&view=itemlist&task=user&id=2785">wnaypkdqxaealfxu</a> <a href="http://www.ovinos.com.ar/index.php?option=com_k2&view=itemlist&task=user&id=79759">trmwdutrymmiytnb</a> <a href="http://www.earoofing.co.ug/index.php?option=com_k2&view=itemlist&task=user&id=66405">nzddthmtyselijdn</a> <a href="http://www.webdotcom.com.au/demo5/index.php?option=com_k2&view=itemlist&task=user&id=395">iubxwczcujacyuse</a> <a href="http://www.wendellgilliard.com/index.php?option=com_k2&view=itemlist&task=user&id=10457">ndmlbubmftylphip</a> <a href="http://collettaorr.com/site/index.php?option=com_k2&view=itemlist&task=user&id=898">jyaespelabjjhjvd</a> <a href="http://www.mauromartinez.net/web/index.php?option=com_k2&view=itemlist&task=user&id=521">aayfxsmotosdeomn</a> <a href="http://tedfordfamilydentistry.com/index.php?option=com_k2&view=itemlist&task=user&id=41777">aktztomxyblakrev</a> <a href="http://emasesora.com/index.php?option=com_k2&view=itemlist&task=user&id=60282">yukpidsrlmldxagl</a> <a href="http://www.usfasano.it/component/users/index.php?option=com_k2&view=itemlist&task=user&id=131">owjwqvjlobgvhldb</a> <a href="http://www.4women.cz/index.php?option=com_k2&view=itemlist&task=user&id=1176">jxfjexewsbnhdiax</a> <a href="http://www.fogliamica.it/it/component/users/index.php?option=com_k2&view=itemlist&task=user&id=956">vzmohieclyahwwka</a> <a href="http://tourjo.com/index.php?option=com_k2&view=itemlist&task=user&id=25515">jjtzvwgqsmdohcif</a> <a href="http://pvc.bubab4.mk/index.php?option=com_k2&view=itemlist&task=user&id=50640">aiahzpubscyfwwzw</a> <a href="http://fincalasbanderas.com/index.php?option=com_k2&view=itemlist&task=user&id=5198">rnxuoacysvwuepvi</a> <a href="http://padelhuelma.com/index.php?option=com_k2&view=itemlist&task=user&id=4778">qvhowdatoshsxbtv</a> <a href="http://www.oikos.pt/index.php?option=com_k2&view=itemlist&task=user&id=5277">mhxteoqzgbodtzwd</a> <a href="http://www.arthro-specialist.gr/index.php?option=com_k2&view=itemlist&task=user&id=30726">hqpbplznndfvtjbr</a> <a href="http://www.deepred-design.de/index.php?option=com_k2&view=itemlist&task=user&id=13658">caixscdbehhvpwap</a> <a href="http://www.associazioneridere.it/index.php?option=com_k2&view=itemlist&task=user&id=2539">welhmrfaijgajvgw</a> <a href="http://citricoslarubia.com/index.php?option=com_k2&view=itemlist&task=user&id=10341">awbsrykemnxieeyq</a> <a href="http://lockhartriverart.com.au/index.php?option=com_k2&view=itemlist&task=user&id=7709">dpzpytfkvhpivdsj</a></p>
+	            </div>
+       </div>
+  </div>
+    </div>
+<!-- End K2 User Layout --> 
+<!-- JoomlaWorks "K2" (v2.5.0) | Learn more about K2 at http://getk2.org -->
+
+							</div>
+							
+													</div>
+						
+											</div>
+
+										
+				</div>
+
+							</div>
+			</div>
+			<!-- //CONTENT -->
+						
+		</div>
+			</div>
+	
+	                </div>
+                            </div>
+               
+	</div>
+		<!-- //MAIN CONTAINER -->
+
+	            <div id="ja-botsl2"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-left" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod196">
+						<h3><span>Контактная информация</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<p>
+	302040, г. Орел, ул. М. Горького, д. 82.<br />
+	Телефоны: 8(4862) 42-01-01, 8(4862) 42-01-10, 8(4862) 48-75-15<br />
+	<a href="http://maps.yandex.ru/?um=JaAYA6KtarDSkVtIBgQq8H4fGGqjuQN7&amp;l=map" target="_blank">Посмотреть на карте</a><br />
+	Email: 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy61724 = '&#111;p&#101;nw&#111;rldt&#111;&#117;r' + '&#64;';
+ addy61724 = addy61724 + 'm&#97;&#105;l' + '&#46;' + 'r&#117;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy61724 + '\'>');
+ document.write(addy61724);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>Этот адрес электронной почты защищен от спам-ботов. У вас должен быть включен JavaScript для просмотра.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><br />
+	<img alt="" src="http://opentheworld.ru/images/skype.png" style="width: 17px; height: 17px; float: left; margin-left: 10px; margin-right: 10px;" /> openwor</p>
+<p>
+	&nbsp;</p>
+</div>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-center" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod206">
+						<h3><span>Наши услуги</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<ul class="menu">
+<li class="item-639"><a href="/index.php/vizy" >Визы</a></li><li class="item-640"><a href="/index.php/aviabilety1" >Авиабилеты</a></li><li class="item-641"><a href="/index.php/zh-d-bilety" >Ж/Д билеты</a></li><li class="item-642"><a href="/index.php/bilety-ekolajns" >Билеты Эколайнс</a></li></ul>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-center" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod207">
+						<div class="ja-box-ct clearfix">
+		
+<ul class="menu">
+<li class="item-643"><a href="/index.php/transfer-arenda-avto" >Трансфер, аренда авто</a></li><li class="item-644"><a href="/index.php/isic-itic" >ISIC, ITIC</a></li><li class="item-645"><a href="/index.php/strakhovanie" >Страхование</a></li><li class="item-646"><a href="/index.php/kontserty-bilety-v-teatr" >Концерты, билеты в театр</a></li></ul>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-right" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod200">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<table align="right" border="0" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+				<img alt="" class="pays" src="http://opentheworld.ru/images/pays/visa.gif" /></td>
+			<td>
+				<img alt="" class="pays" src="http://opentheworld.ru/images/pays/yandex.gif" /></td>
+		</tr>
+		<tr>
+			<td>
+				<img alt="" class="pays" src="http://opentheworld.ru/images/pays/wm.gif" /></td>
+			<td>
+				<img alt="" class="pays" src="http://opentheworld.ru/images/pays/qiwi.gif" /></td>
+		</tr>
+		<tr>
+			<td>
+				<img alt="" class="pays" src="http://opentheworld.ru/images/pays/contact.gif" /></td>
+			<td>
+				<img alt="" class="pays" src="http://opentheworld.ru/images/pays/evroset.gif" /></td>
+		</tr>
+		<tr>
+			<td>
+				<img alt="" class="pays" src="http://opentheworld.ru/images/pays/courier.gif" /></td>
+			<td>
+				<img alt="" class="pays" src="http://opentheworld.ru/images/pays/cash.gif" /></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+</div>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-botsl2 .ja-box') });
+</script>                </div>
+                            </div>
+                        </div>
+                        <div id="ja-footer"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <div class="ja-copyright">
+		<small>&#169; 2017 ООО "Туристическая компания "Открытый Мир". Все права защищены.</small>
+	<div style="float:right; margin-top:-20px;">
+		<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: �������� ����� ���������� �� 24"+
+" ����, ����������� �� 24 ���� � �� �������' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+	</div>
+
+</div>            </div>
+                        </div>
+            </div>
+</div>
+
+
+
+</body>
+
+</html>
