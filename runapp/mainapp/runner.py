@@ -5,7 +5,7 @@ from runapp.add_isue_attribute.parse_atrributes import parser_attr
 from runapp.add_isue_attribute.search_keys import add_keys_img
 from runapp.rota.sort_isue import sortallisues
 '''
-from runapp.mainapp.LoadData import loaddata
+from runapp.mainapp.LoadData import loaddata, loaddata_Old
 from runapp.mainapp.valid_as_new import validnewdomain
 from runapp.For_Metriks.all_function_metriks import mark_start, mark_fin
 

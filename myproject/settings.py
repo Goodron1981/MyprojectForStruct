@@ -26,6 +26,7 @@ SECRET_KEY = 'sbee=gw_305qekt#4-f%p#3rxj49%be$voo=w=52goly-+^f!^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+
 ALLOWED_HOSTS = ['127.0.0.2','127.0.0.1']
 
 

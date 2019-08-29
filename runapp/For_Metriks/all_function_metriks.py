@@ -1,4 +1,6 @@
 import datetime
+from zipfile import BadZipFile
+
 import openpyxl
 from openpyxl.styles import Color, PatternFill, Font, Border, colors
 
@@ -46,6 +48,14 @@ def count_true_unikal():
 def mark_start():
     # Промаркировать начало обработки списка доменов
     wb = openpyxl.load_workbook('/home/max/websites/metriks.xlsx')
+    '''
+    while (True):
+        try:
+            wb = openpyxl.load_workbook('/home/max/websites/metriks.xlsx')
+            break
+        except EOFError:
+            continue
+    '''
     sheet = wb['Metriks']
     last_row = len(sheet['A:A'])
     nowtime = datetime.datetime.now()
@@ -59,6 +69,15 @@ def mark_start():
 def mark_fin():
     # Промаркировать окончание обработки списка доменов
     wb = openpyxl.load_workbook('/home/max/websites/metriks.xlsx')
+    '''
+    while (True):
+        try:
+            wb = openpyxl.load_workbook('/home/max/websites/metriks.xlsx')
+            break
+        except BadZipFile:
+            print("BadZipFile")
+            continue
+    '''
     sheet = wb['Metriks']
     last_row = len(sheet['A:A'])
     nowtime = datetime.datetime.now()

@@ -3,16 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="da2ea0fc-a8b1-4915-812d-25447a89b5f8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runapp/ContinueApp/format_html_to_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/ContinueApp/format_html_to_txt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runapp/ContinueApp/parse_validate_content.py" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/ContinueApp/parse_validate_content.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runapp/ContinueApp/parsearhiv.py" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/ContinueApp/parsearhiv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runapp/ContinueApp/teke_Periods.py" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/ContinueApp/teke_Periods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runapp/ContinueApp/validAnyPeriod.py" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/ContinueApp/validAnyPeriod.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runapp/ContinueApp/validPeriodList.py" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/ContinueApp/validPeriodList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runapp/For_Metriks/all_function_metriks.py" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/For_Metriks/all_function_metriks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runapp/mainapp/LoadData.py" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/mainapp/LoadData.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runapp/mainapp/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/mainapp/runner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runapp/mainapp/valid_as_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/mainapp/valid_as_new.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runapp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/tests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,31 +20,34 @@
     <session id="648191404">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="6" />
           <entry key="js" value="1" />
-          <entry key="py" value="162" />
+          <entry key="py" value="177" />
           <entry key="txt" value="4" />
           <entry key="xml" value="1" />
         </counts>
@@ -57,7 +56,7 @@
         <counts>
           <entry key="HTML" value="6" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="162" />
+          <entry key="Python" value="177" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -68,7 +67,7 @@
           <entry key="dummy" value="67" />
           <entry key="html" value="42" />
           <entry key="js" value="20" />
-          <entry key="py" value="9855" />
+          <entry key="py" value="10123" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
@@ -76,7 +75,7 @@
         <counts>
           <entry key="HTML" value="42" />
           <entry key="PLAIN_TEXT" value="74" />
-          <entry key="Python" value="10496" />
+          <entry key="Python" value="10764" />
           <entry key="Scratch" value="20" />
         </counts>
       </usages-collector>
@@ -85,13 +84,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/parsearhiv.py">
+        <entry file="file://$PROJECT_DIR$/runapp/Finapp/loadAllPagePeriod.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="420">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <marker date="1550843313648" expanded="true" signature="146:147" ph="..." />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,80 +98,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runapp/mainapp/valid_as_new.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="210">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1550579969241" expanded="true" signature="492:497" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runapp/Finapp/loadAllPagePeriod.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runapp/Finapp/take_subtitle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-                <marker date="1546091525454" expanded="true" signature="191:192" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runapp/Finapp/save_result.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1547214273378" expanded="true" signature="400:405" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runapp/Finapp/take_text.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runapp/tests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/parse_validate_content.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-195">
-              <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="544">
+              <caret line="60" column="57" lean-forward="true" selection-start-line="60" selection-start-column="57" selection-end-line="61" selection-end-column="33" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <marker date="1547476654583" expanded="true" signature="571:575" ph="..." />
@@ -183,26 +121,66 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/validAnyPeriod.py">
+        <entry file="file://$PROJECT_DIR$/myproject/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            <state relative-caret-position="195">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/parsearhiv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1550843313668" expanded="true" signature="3824:3829" ph="..." />
+                <marker date="1550843313648" expanded="true" signature="146:147" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runapp/For_Metriks/all_function_metriks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runapp/mainapp/testik.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+              <folding>
+                <marker date="1552384685516" expanded="true" signature="23:43" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runapp/Finapp/make_paragraph.py">
+        <entry file="file://$PROJECT_DIR$/runapp/Finapp/save_result.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="45">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding>
-                <marker date="1547214195014" expanded="true" signature="26:31" ph="..." />
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1547214273378" expanded="true" signature="400:405" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runapp/mainapp/runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -232,6 +210,8 @@
       <find>НАЗВАНИЕ</find>
       <find>parsepage</find>
       <find>myresult</find>
+      <find>Неуникальный домен</find>
+      <find>уникаль</find>
     </findStrings>
     <replaceStrings>
       <replace>processing_domain</replace>
@@ -246,7 +226,6 @@
         <option value="$PROJECT_DIR$/runapp/templates/runapp/startpage.html" />
         <option value="$PROJECT_DIR$/runapp/urls.py" />
         <option value="$PROJECT_DIR$/runapp/firstpart/validdomain.py" />
-        <option value="$PROJECT_DIR$/myproject/settings.py" />
         <option value="$PROJECT_DIR$/list.txt" />
         <option value="$PROJECT_DIR$/Filter.txt" />
         <option value="$PROJECT_DIR$/runapp/firstpart/first_part.py" />
@@ -262,7 +241,6 @@
         <option value="$PROJECT_DIR$/runapp/models.py" />
         <option value="$PROJECT_DIR$/runapp/admin.py" />
         <option value="$PROJECT_DIR$/runapp/ContinueApp/format_text.py" />
-        <option value="$PROJECT_DIR$/runapp/mainapp/LoadData.py" />
         <option value="$PROJECT_DIR$/runapp/Finapp/forsaveseconds.py" />
         <option value="$PROJECT_DIR$/runapp/Finapp/take_title.py" />
         <option value="$PROJECT_DIR$/runapp/tests.py" />
@@ -270,25 +248,28 @@
         <option value="$PROJECT_DIR$/runapp/ContinueApp/validPeriodList.py" />
         <option value="$PROJECT_DIR$/runapp/For Metriks/all_function_metriks.py" />
         <option value="$PROJECT_DIR$/runapp/Finapp/take_subtitle.py" />
-        <option value="$PROJECT_DIR$/runapp/For_Metriks/all_function_metriks.py" />
-        <option value="$PROJECT_DIR$/runapp/mainapp/runner.py" />
         <option value="$PROJECT_DIR$/runapp/Finapp/make_paragraph.py" />
         <option value="$PROJECT_DIR$/runapp/Finapp/save_result.py" />
         <option value="$PROJECT_DIR$/runapp/ContinueApp/parse_validate_content.py" />
         <option value="$PROJECT_DIR$/runapp/Finapp/loadAllPagePeriod.py" />
         <option value="$PROJECT_DIR$/runapp/ContinueApp/format_html_to_txt.py" />
-        <option value="$PROJECT_DIR$/runapp/mainapp/valid_as_new.py" />
         <option value="$PROJECT_DIR$/runapp/ContinueApp/parsearhiv.py" />
         <option value="$PROJECT_DIR$/runapp/ContinueApp/validAnyPeriod.py" />
         <option value="$PROJECT_DIR$/runapp/Finapp/take_text.py" />
+        <option value="$PROJECT_DIR$/runapp/For_Metriks/all_function_metriks.py" />
+        <option value="$PROJECT_DIR$/runapp/mainapp/testik.py" />
+        <option value="$PROJECT_DIR$/runapp/mainapp/LoadData.py" />
+        <option value="$PROJECT_DIR$/runapp/mainapp/runner.py" />
+        <option value="$PROJECT_DIR$/runapp/mainapp/valid_as_new.py" />
+        <option value="$PROJECT_DIR$/myproject/settings.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
+    <option name="x" value="7" />
     <option name="y" value="20" />
-    <option name="width" value="1260" />
-    <option name="height" value="951" />
+    <option name="width" value="1256" />
+    <option name="height" value="948" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -318,7 +299,19 @@
               <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="myproject" type="462c0819:PsiDirectoryNode" />
               <item name="runapp" type="462c0819:PsiDirectoryNode" />
+              <item name="ContinueApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="runapp" type="462c0819:PsiDirectoryNode" />
               <item name="Finapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="runapp" type="462c0819:PsiDirectoryNode" />
+              <item name="For_Metriks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
@@ -335,7 +328,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Co&#9;FILE&#9;file:///home/max/Рабочий стол/ForProjects/myproject/runapp/ContinueApp&#10;co&#9;FILE&#9;file:///home/max/Рабочий стол/ForProjects/myproject/runapp/ContinueApp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myproject2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -602,11 +595,6 @@
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/runapp/mainapp/valid_as_new.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="117" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/runapp/Finapp/take_subtitle.py</url>
           <line>9</line>
           <option name="timeStamp" value="120" />
@@ -675,6 +663,11 @@
           <url>file://$PROJECT_DIR$/runapp/ContinueApp/parsearhiv.py</url>
           <line>39</line>
           <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/runapp/ContinueApp/parse_validate_content.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="198" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -895,62 +888,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myproject/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="44" column="52" lean-forward="true" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/format_text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#68#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/format_html_to_txt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runapp/For_Metriks/all_function_metriks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runapp/mainapp/LoadData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/validPeriodList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/runapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="52" column="37" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="52" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runapp/mainapp/runner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -960,38 +901,6 @@
           <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <marker date="1545404351760" expanded="true" signature="1104:1109" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/parsearhiv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1550843313648" expanded="true" signature="146:147" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runapp/mainapp/valid_as_new.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1550579969241" expanded="true" signature="492:497" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runapp/Finapp/loadAllPagePeriod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1014,10 +923,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/runapp/Finapp/make_paragraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/format_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <element signature="e#68#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/validAnyPeriod.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
             <marker date="1550843313668" expanded="true" signature="3824:3829" ph="..." />
@@ -1025,20 +951,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runapp/Finapp/make_paragraph.py">
+    <entry file="file://$PROJECT_DIR$/runapp/Finapp/take_text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="615">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/format_html_to_txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runapp/mainapp/LoadData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/validPeriodList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runapp/Finapp/loadAllPagePeriod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
-            <marker date="1547214195014" expanded="true" signature="26:31" ph="..." />
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runapp/mainapp/valid_as_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runapp/mainapp/testik.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+          <folding>
+            <marker date="1552384685516" expanded="true" signature="23:43" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/runapp/Finapp/save_result.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="45">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <marker date="1547214273378" expanded="true" signature="400:405" ph="..." />
@@ -1046,24 +1020,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runapp/Finapp/take_text.py">
+    <entry file="file://$PROJECT_DIR$/runapp/mainapp/runner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/parse_validate_content.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-195">
-          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        <state relative-caret-position="544">
+          <caret line="60" column="57" lean-forward="true" selection-start-line="60" selection-start-column="57" selection-end-line="61" selection-end-column="33" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
             <marker date="1547476654583" expanded="true" signature="571:575" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runapp/ContinueApp/parsearhiv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1550843313648" expanded="true" signature="146:147" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runapp/For_Metriks/all_function_metriks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
